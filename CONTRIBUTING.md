@@ -18,6 +18,6 @@ Reworded principles, added principles that restate an existing one, and expansio
 
 Issues are the front door. A short issue beats a large pull request, because the discussion about whether a change belongs is usually the whole work.
 
-If you're adapting this for your own firm, you don't need permission and you don't need to contribute anything back. Reword it in your own voice and install it wherever you keep your standards. That's the intended use.
+If you're adapting this for your own firm, you don't need permission beyond the credit the license asks for, and you don't need to contribute anything back. Reword it in your own voice and install it wherever you keep your standards. That's the intended use.
 
 *Michael Margolis · Storied · storiedinc.com*

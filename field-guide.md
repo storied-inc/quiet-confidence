@@ -250,3 +250,9 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 This is one artifact from the voice layer of an operating system Storied has been building. I made this because the register travels. It's as useful across a cap table as it is across a single deal, and it gets sharper the moment a second partner is working from the same page. If it earns a place in how you write, it did its job.
 
 *Michael Margolis · Storied · storiedinc.com*
+
+---
+
+Quiet Confidence v2.0 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® is a registered mark and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+
+**Storied AI** runs Storied's narrative method inside Claude. [storiedinc.com](https://storiedinc.com)

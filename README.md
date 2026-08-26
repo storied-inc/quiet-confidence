@@ -100,8 +100,12 @@ If it earns a place in how you write, it did its job.
 
 ## License
 
-[CC BY 4.0](LICENSE). Use it, adapt it, put it in your own voice file. Attribution appreciated, not policed.
+[CC BY 4.0](LICENSE). Use it, adapt it, put it in your own voice file. Attribution is required by the license and takes one line.
 
 ---
+
+**Storied AI** runs Storied's narrative method inside Claude, so you can reach for it in the flow of work. [storiedinc.com](https://storiedinc.com)
+
+Quiet Confidence v2.0 © 2026 Get Storied, Inc. Storied® is a registered mark and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

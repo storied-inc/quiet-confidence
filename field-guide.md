@@ -200,29 +200,17 @@ Run everything you send through both.
 
 **The relational test.** If the person across the table saw this register named and explained, would they feel respected and better served, or would they feel handled? GP register has to read as something you could hand your own partner without it landing as a tactic. A move that only works while the other side can't see it is manipulation, not register. Cut that too.
 
-### Two names worth saying out loud
-
-A test you can name is a test you'll actually run, and these two have handles.
-
-**Wax on, wax off** is the concision test. Polish the jewel. Same motion over and over until the unnecessary comes off on its own and what's left is the thing itself.
-
-**Paint the fence** is the relational test. Long, even strokes, attention on the surface you're working. It asks how this lands on the other side rather than how it reads on yours.
-
-And when you want the hardest version of both at once, **sweep the leg.** No cushioning, no "this part is already strong," just the damage ranked in order. Ask for it when you'd rather find the problem yourself than have a counterparty find it for you.
-
-Say the name and the discipline comes with it. That's the whole reason to name things.
-
 ## The Quiet Confidence Read
 
-The tool that runs this standard on a draft is the **Quiet Confidence Read**. It audits by default and drafts only when you ask, because the register is fewer moves and a model asked to draft will reach for the extra justification every time.
+The tool that runs this standard on a draft is the **Quiet Confidence Read**. It rewrites. It doesn't hand you a diagnosis and leave you to convert it into edits, because that's the same work twice and most people won't do it the second time.
 
-It comes back in two halves, and the split matters: diagnosis before prescription, so you can disagree with the read before you act on the recommendation.
+**The rewrite.** The draft you should send, clean and ready to copy.
 
-**The Read.** What's working. Whether you're in peer or buyer texture and whether that's right for who's receiving it. Every line that should be cut, quoted back with the reason. Every place you handed over standing, with the mechanism named.
+**The underwriting.** Three to five lines, heaviest first, each naming one change it made and the principle behind it, with the phrase it cut quoted back so you can see what left.
 
-**Recommendations.** The two changes carrying the most weight, never eight, because a list of accurate observations averages down and you act on none of them. Then one action, as an imperative.
+**One call for you.** Only when a change turns on something the tool doesn't have, like a date you can actually hold. Usually absent.
 
-The three dials stack on top: **wax on, wax off** for maximum concision, **paint the fence** for the relational read, **sweep the leg** for the hardest read available.
+It rewrites by subtraction, so the draft comes back shorter than the one you gave it. That constraint is the whole design. A model told to improve your writing adds, because adding is what it does when it's trying to be useful. A model told to write against a named standard cuts.
 
 ## When to Deploy, When to Withhold
 
@@ -242,15 +230,16 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | Version | Date | What Changed |
 |---|---|---|
 | v1.0 | 2026-07-21 | Operating Partner edition. First shareable cut, derived from internal canon. |
-| v1.1 | 2026-07-30 | The Asymmetric Table, the two corrections, the waiting rules, and the three named dials. |
+| v1.1 | 2026-07-30 | The Asymmetric Table, the two corrections, and the waiting rules. |
 | v2.0 | 2026-08-26 | Renamed to Quiet Confidence. GP register retained as the register's proper name. Adds The Name System, the allocator definition, the register-not-a-temperament translation, and the Quiet Confidence Read. |
 | v2.1 | 2026-09-21 | Replaces the closing note with the Storied AI section. Lede drops the operating-system framing for the library framing. No change to the principles, the moves, or the tests. |
+| v2.2 | 2026-09-21 | The Quiet Confidence Read inverts: it returns the rewritten draft first, then the underwriting for the changes it made, rather than a diagnosis the reader has to convert into edits. Removes the three named modes, which now live only in Storied AI. Principles, moves, and tests unchanged. |
 
 ## Storied AI
 
 Quiet Confidence is one skill. It comes from a library.
 
-**Storied AI™** puts Narrative Intelligence™ skills inside Claude and ChatGPT, callable in the flow of work through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. The language a company runs on, treated as infrastructure rather than decoration.
+**Storied AI™** puts Narrative Intelligence® skills inside Claude and ChatGPT, callable in the flow of work through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. The language a company runs on, treated as infrastructure rather than decoration.
 
 Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied-ai)
 
@@ -260,4 +249,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.1 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® is a registered mark; Storied AI™ and Narrative Intelligence™ are trademarks of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.2 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

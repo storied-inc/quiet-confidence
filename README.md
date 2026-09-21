@@ -4,7 +4,7 @@
 
 Standing in a high-stakes exchange is rarely taken from you. It leaks, one sentence at a time, through instincts that feel like good manners while you're writing and land as deference by the time they're read.
 
-This is the standard that catches it: how you write when the stakes are real, the relationship outlasts the transaction, and the other side controls the capital, the clock, and the calendar.
+This is the standard that catches it: how you write when the stakes are real and the relationship outlasts the transaction. It runs on both sides of the table, and it works hardest when the table isn't level.
 
 ## The hidden power leaks
 
@@ -114,6 +114,8 @@ Every change cites the principle behind it, so you can argue with it. A tool tha
 
 ## Solve for power asymmetry
 
+This is the case the register is really for, and the one it reads hardest. It fires when you're the operator, founder, advisor, or service partner and the other side controls the capital, the clock, and the calendar. Sitting in the allocator's seat, read it in reverse: these are the tells that show you someone across the table has stopped negotiating as a peer, which is rarely what you wanted either.
+
 The structural tells are the part worth internalizing. They set the clock and you thanked them for it. They own the calendar. The meeting closed on their terms, on a call you convened. They asked what it costs and you explained how you think. You pre-disqualified the thing they'd already told you they'd fund. You asked *when* instead of *what*.
 
 That last one is the whole game. "When should we reconnect" can be answered with a promise. "What's the one open question, if any, standing between us and go" can only be answered with an objection you can handle live, or an admission there isn't one.
@@ -174,6 +176,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.5 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.6 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

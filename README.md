@@ -52,6 +52,39 @@ This is why the tool rewrites against a named standard rather than being asked t
 
 Anywhere you want to sound more principled, more disciplined, and more self-assured, while still optimizing for mutual value creation, partnership, and the relationship.
 
+## What GP register is, and is not
+
+| GP register is | GP register is not |
+|---|---|
+| Authority in service of a shared outcome | A technique for winning a private advantage |
+| Quiet confidence that treats the reader as a peer | Supplication, hedging, or asking permission to take up space |
+| One clean statement, then silence | Restating, over-explaining, or justifying the ask |
+| Warmth that is genuine and brief | Flattery, validation lines, or praise engineered to soften a yes |
+| Inevitable: the conclusion feels discovered | Persuasive: the conclusion feels argued and pushed |
+| Generous in spirit, scarce with time | Available to everything, or coldly ranking what deserves a reply |
+
+If you can cut a sentence and lose nothing but reassurance, it was a move you didn't need.
+
+## The principles
+
+Seven. Every note the tool gives you cites one of them by number, which is what makes it arguable rather than a matter of taste.
+
+**1. Serve the mutual outcome.** The aim is the result both sides would call fair, reached faster and with less friction, not the win at the other person's expense.
+
+**2. Authority through subtraction.** A short reply carries more weight than a long one. When stakes rise, cut rather than add. Over-writing reads as anxiety, and it quietly asks the reader to reassure you.
+
+**3. Preserve optionality.** Say "not right now" before "no." Decline on fit or timing, never on the person. Keep the door visibly open when it should stay open, and close it cleanly when it shouldn't.
+
+**4. Sound inevitable, not persuasive.** Let the conclusion feel discovered. Persuasion signals you expect resistance, which invites it.
+
+**5. Make the ask, then stop.** One clean request, one optional line that softens it, then silence. Unrequested rationale turns a clean ask into a surface to argue against.
+
+**6. Warmth before boundary.** One genuine line before you decline or redirect. No "I'm so sorry," no "unfortunately," no apology spiral. The spiral signals guilt, and guilt signals the boundary is negotiable.
+
+**7. Never derisive. Generosity of spirit, scarcity of time.** Sound like someone who would help if they could. When you decline, leave something behind: a reframe, a name, a resource.
+
+Each principle carries a "why it matters" in [`field-guide.md`](field-guide.md), along with the moves that make it concrete and a real before-and-after for each.
+
 ## How to run it
 
 | Path | Setup | Who it's for |
@@ -141,6 +174,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.3 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.4 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

@@ -2,9 +2,9 @@
 
 **In the world of capital allocation, the number one currency is quiet confidence.**
 
-Standing in a high-stakes exchange is rarely taken from you. It leaks, one sentence at a time, through instincts that feel like good manners while you're writing and land as deference by the time they're read.
+You rarely lose standing because someone takes it. You give it away, a sentence at a time, and you usually don't notice. The moves that cost you feel polite while you write them, and read as deference once someone else opens the email.
 
-This is the standard that catches it: how you write when the stakes are real and the relationship outlasts the transaction. It runs on both sides of the table, and it works hardest when the table isn't level.
+This is the standard that catches them. It covers how you write when the stakes are high and the relationship matters more than any single deal. It works on both sides of the table, and it does the most for whoever has less power in the exchange.
 
 ## The hidden power leaks
 
@@ -176,6 +176,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.6 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.7 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

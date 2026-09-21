@@ -65,9 +65,9 @@ Run order: paste prompt for a week. If you reach for it more than twice, install
 
 The method behind all of them is [`field-guide.md`](field-guide.md). Seven principles, the moves with before-and-afters, the asymmetric table, the two tests. It's worth reading on its own, independent of the tool.
 
-## The Quiet Confidence Read
+## The Quiet Confidence Rewrite
 
-It rewrites. You paste the draft, you get back the one you should send. No separate diagnosis to read, weigh, and convert into edits yourself.
+You paste the draft, you get back the one you should send. No separate diagnosis to read, weigh, and convert into edits yourself.
 
 **The rewrite.** Clean, ready to copy, nothing wrapped around it.
 
@@ -119,7 +119,7 @@ Ten handles, and that's deliberate. A standard people can actually run needs nam
 | The stake | **Peer footing** |
 | The situation | **Solve for power asymmetry** |
 | The test | **Load-bearing** |
-| The tool | **The Quiet Confidence Read** |
+| The tool | **The Quiet Confidence Rewrite** |
 
 ## The governing test
 
@@ -141,6 +141,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.2 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.3 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

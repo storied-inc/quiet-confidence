@@ -56,7 +56,7 @@ The output section names and the lexicon terms below are vocabulary you use in y
 | The stake | **Peer footing** | What the operator side is protecting |
 | The situation | **Solve for power asymmetry** | Who this is for, and when |
 | The test | **Load-bearing** | If a line isn't carrying, it's a move they didn't need |
-| The tool | **The Quiet Confidence Read** | What you run. Returns the rewrite, then the underwriting |
+| The tool | **The Quiet Confidence Rewrite** | What you run. Returns the rewrite, then the underwriting |
 
 Use these terms by name in your output. Naming the defect is most of the teaching.
 

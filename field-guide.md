@@ -26,7 +26,7 @@ One skill from the Storied library, published in full. Read it, reword it in you
 | The stake | **Peer footing** |
 | The situation | **Solve for power asymmetry** |
 | The test | **Load-bearing** |
-| The tool | **The Quiet Confidence Read** |
+| The tool | **The Quiet Confidence Rewrite** |
 
 Ten words and phrases, and that's deliberate. A standard people can actually run needs handles: a name for the thing, a name for the law, a name for the defect you keep committing. Language you can say out loud is language that travels to the rest of your firm without you carrying it there.
 
@@ -200,9 +200,9 @@ Run everything you send through both.
 
 **The relational test.** If the person across the table saw this register named and explained, would they feel respected and better served, or would they feel handled? GP register has to read as something you could hand your own partner without it landing as a tactic. A move that only works while the other side can't see it is manipulation, not register. Cut that too.
 
-## The Quiet Confidence Read
+## The Quiet Confidence Rewrite
 
-The tool that runs this standard on a draft is the **Quiet Confidence Read**. It rewrites. It doesn't hand you a diagnosis and leave you to convert it into edits, because that's the same work twice and most people won't do it the second time.
+The tool that runs this standard on a draft is the **Quiet Confidence Rewrite**. It doesn't hand you a diagnosis and leave you to convert it into edits, because that's the same work twice and most people won't do it the second time.
 
 **The rewrite.** The draft you should send, clean and ready to copy.
 
@@ -233,7 +233,8 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v1.1 | 2026-07-30 | The Asymmetric Table, the two corrections, and the waiting rules. |
 | v2.0 | 2026-08-26 | Renamed to Quiet Confidence. GP register retained as the register's proper name. Adds The Name System, the allocator definition, the register-not-a-temperament translation, and the Quiet Confidence Read. |
 | v2.1 | 2026-09-21 | Replaces the closing note with the Storied AI section. Lede drops the operating-system framing for the library framing. No change to the principles, the moves, or the tests. |
-| v2.2 | 2026-09-21 | The Quiet Confidence Read inverts: it returns the rewritten draft first, then the underwriting for the changes it made, rather than a diagnosis the reader has to convert into edits. Removes the three named modes, which now live only in Storied AI. Principles, moves, and tests unchanged. |
+| v2.2 | 2026-09-21 | The tool inverts: it returns the rewritten draft first, then the underwriting for the changes it made, rather than a diagnosis the reader has to convert into edits. Removes the three named modes, which now live only in Storied AI. Principles, moves, and tests unchanged. |
+| v2.3 | 2026-09-21 | The tool is renamed from the Quiet Confidence Read to the **Quiet Confidence Rewrite**, closing the gap opened in v2.2. A tool that returns a rewrite and calls itself a read is language debt of the kind this standard exists to catch. Name System row updated; no other change. |
 
 ## Storied AI
 
@@ -249,4 +250,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.2 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.3 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

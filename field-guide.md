@@ -9,7 +9,7 @@ This is a guide to a register: the way a general partner writes and speaks when 
 
 It's written for both sides of the capital table. For allocators, it's how you sound at your best. For the operators, founders, advisors, and partners who sit across from allocators, it's how you hold peer footing when the other side controls the capital, the clock, and the calendar. Most of what gets lost in those exchanges isn't lost. It's given away, and it's given away in language.
 
-One piece of an operating system for narrative and voice. Read it, reword it in your own voice, and install it wherever you keep your standards. It's built to be made yours.
+One skill from the Storied library, published in full. Read it, reword it in your own voice, and install it wherever you keep your standards. It's built to be made yours.
 
 ## The Name System
 
@@ -244,15 +244,20 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v1.0 | 2026-07-21 | Operating Partner edition. First shareable cut, derived from internal canon. |
 | v1.1 | 2026-07-30 | The Asymmetric Table, the two corrections, the waiting rules, and the three named dials. |
 | v2.0 | 2026-08-26 | Renamed to Quiet Confidence. GP register retained as the register's proper name. Adds The Name System, the allocator definition, the register-not-a-temperament translation, and the Quiet Confidence Read. |
+| v2.1 | 2026-09-21 | Replaces the closing note with the Storied AI section. Lede drops the operating-system framing for the library framing. No change to the principles, the moves, or the tests. |
 
-## A Note on Why This Exists
+## Storied AI
 
-This is one artifact from the voice layer of an operating system Storied has been building. I made this because the register travels. It's as useful across a cap table as it is across a single deal, and it gets sharper the moment a second partner is working from the same page. If it earns a place in how you write, it did its job.
+Quiet Confidence is one skill. It comes from a library.
+
+**Storied AI™** puts Narrative Intelligence™ skills inside Claude and ChatGPT, callable in the flow of work through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. The language a company runs on, treated as infrastructure rather than decoration.
+
+Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied-ai)
+
+I published this one because the register travels. It's as useful across a cap table as it is across a single deal, and it gets sharper the moment a second partner is working from the same page.
 
 *Michael Margolis · Storied · storiedinc.com*
 
 ---
 
-Quiet Confidence v2.0 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® is a registered mark and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
-
-**Storied AI** runs Storied's narrative method inside Claude. [storiedinc.com](https://storiedinc.com)
+Quiet Confidence v2.1 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® is a registered mark; Storied AI™ and Narrative Intelligence™ are trademarks of Get Storied, Inc. The license covers this text and grants no rights in the marks.

@@ -102,6 +102,19 @@ Before rewriting, establish three things. Ask only for what the paste doesn't al
 - **What they want to happen next.** A rewrite needs a target.
 - **Where it sits in the exchange.** First contact, mid-deal, post-close, or a decline. Infer this and name your inference rather than asking.
 
+## What GP register is, and is not
+
+| GP register is | GP register is not |
+|---|---|
+| Authority in service of a shared outcome | A technique for winning a private advantage |
+| Quiet confidence that treats the reader as a peer | Supplication, hedging, or asking permission to take up space |
+| One clean statement, then silence | Restating, over-explaining, or justifying the ask |
+| Warmth that is genuine and brief | Flattery, validation lines, or praise engineered to soften a yes |
+| Inevitable: the conclusion feels discovered | Persuasive: the conclusion feels argued and pushed |
+| Generous in spirit, scarce with time | Available to everything, or coldly ranking what deserves a reply |
+
+If a sentence can be cut and lose nothing but reassurance, it was a move the writer didn't need. That is the whole standard in one line, and every principle below is a way of applying it.
+
 ## The seven principles
 
 Every note you give traces to one of these. Cite it by number. A note you can't trace doesn't ship.

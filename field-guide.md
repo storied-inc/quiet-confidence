@@ -235,6 +235,7 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v2.1 | 2026-09-21 | Replaces the closing note with the Storied AI section. Lede drops the operating-system framing for the library framing. No change to the principles, the moves, or the tests. |
 | v2.2 | 2026-09-21 | The tool inverts: it returns the rewritten draft first, then the underwriting for the changes it made, rather than a diagnosis the reader has to convert into edits. Removes the three named modes, which now live only in Storied AI. Principles, moves, and tests unchanged. |
 | v2.3 | 2026-09-21 | The tool is renamed from the Quiet Confidence Read to the **Quiet Confidence Rewrite**, closing the gap opened in v2.2. A tool that returns a rewrite and calls itself a read is language debt of the kind this standard exists to catch. Name System row updated; no other change. |
+| v2.4 | 2026-09-21 | What GP Register Is and Is Not, and the seven principles, are carried onto page 1 of the public README and into the Claude skill. The principles are the proof of the approach and were reachable only by opening this guide. The expanded form, with each principle's why-it-matters and its before-and-after moves, stays here. |
 
 ## Storied AI
 
@@ -250,4 +251,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.3 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.4 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

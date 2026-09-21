@@ -7,7 +7,7 @@ Nothing to prove. The long position.
 
 This is a guide to a register: the way a general partner writes and speaks when the stakes are real and the relationship outlasts the deal.
 
-It's written for both sides of the capital table. For allocators, it's how you sound at your best. For the operators, founders, advisors, and partners who sit across from allocators, it's how you hold peer footing when the other side controls the capital, the clock, and the calendar. Standing in those exchanges is rarely taken from you. It leaks, and it leaks in language, through instincts that feel like good manners while you're writing them.
+It's written for both sides of the capital table. For allocators, it's how you sound at your best. For the operators, founders, advisors, and partners who sit across from allocators, it's how you hold peer footing when the other side controls the capital, the clock, and the calendar. In those exchanges you rarely lose standing because someone takes it. You give it away, in language, a sentence at a time, usually without noticing.
 
 One skill from the Storied library, published in full. Read it, reword it in your own voice, and install it wherever you keep your standards. It's built to be made yours.
 
@@ -34,7 +34,7 @@ Ten words and phrases, and that's deliberate. A standard people can actually run
 
 This is the register of a general partner at a fund with nothing to prove. A capital allocator at a venture or private equity firm who takes the long position: principled, disciplined, pointed at mutual value creation and at long-term trusted relationships rather than the win available today. Reputation is the asset the register protects. Firmness and clarity are how it gets protected.
 
-That's the seat it's borrowed from, and it isn't limited to it. The register works on both sides of the capital table, and it works hardest for the operator, founder, advisor, or service partner sitting across from the allocator, where the standing that gets lost is standing that was handed over.
+That's the seat it's borrowed from, and it isn't limited to it. The register works on both sides of the capital table. It does the most for the operator, founder, advisor, or service partner sitting across from the allocator, because that's where standing gets given away rather than taken.
 
 ### Quiet confidence as a register, not a temperament
 
@@ -238,6 +238,7 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v2.4 | 2026-09-21 | What GP Register Is and Is Not, and the seven principles, are carried onto page 1 of the public README and into the Claude skill. The principles are the proof of the approach and were reachable only by opening this guide. The expanded form, with each principle's why-it-matters and its before-and-after moves, stays here. |
 | v2.5 | 2026-09-21 | Reframes the opening claim in this guide and in the public README. The old line said standing is handed over "by people who'd be horrified to see it written out," which made the reader the butt of the observation and failed the Never-Derisive test the register itself runs. The leaks are now named as hidden, unconscious, and driven by instincts that feel like good manners. Mechanism, not character. |
 | v2.6 | 2026-09-21 | Public README only. Its opening definition put the reader permanently on the short end of the table, which this guide has never claimed: the register runs on both sides and is borrowed from the allocator's seat. The definition now names the stakes and the relationship, with asymmetry demoted from the definition to the hardest case. Adds the allocator-side read to the asymmetry section. |
+| v2.7 | 2026-09-21 | Plain-language pass on the opening claims here and in the public README. The prior wording leaned on balanced, mirrored clauses ("instincts that feel like good manners... land as deference," "works hardest when the table isn't level") that read as clever before they read as clear. Same claims, said plainly. |
 
 ## Storied AI
 
@@ -253,4 +254,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.6 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.7 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

@@ -39,7 +39,7 @@ You write with a model now. And a model's default output runs against this regis
 
 A model will run several of these in a single paragraph, and the draft will read fine to you, because it reads fine to everyone until it's in someone else's inbox with your name on it.
 
-This is why every version below audits by default and drafts only when you ask. Point a model at your writing and tell it to write, and it adds. Tell it to grade against a named standard, and it cuts.
+This is why the tool rewrites against a named standard rather than being asked to make your draft better. Told to improve your writing, a model adds, because adding is what it does when it's trying to be useful. Told to write against a standard with named defects, it cuts.
 
 ## Where you use it
 
@@ -67,21 +67,17 @@ The method behind all of them is [`field-guide.md`](field-guide.md). Seven princ
 
 ## The Quiet Confidence Read
 
-It comes back in two halves, and the split matters: diagnosis before prescription, so you can disagree with the read before you act on the recommendation.
+It rewrites. You paste the draft, you get back the one you should send. No separate diagnosis to read, weigh, and convert into edits yourself.
 
-**The Read.** What's working. Whether you're writing as a peer or as a vendor, and whether that's right for who's receiving it. Every line that should be cut, quoted back with the reason. Every place you handed over standing, with the mechanism named.
+**The rewrite.** Clean, ready to copy, nothing wrapped around it.
 
-**Recommendations.** The two changes carrying the most weight, never eight, because a list of accurate observations averages down and you act on none of them. Then one action, as an imperative.
+**The underwriting.** Three to five lines, heaviest first. Each names one change it made and the principle behind it, with the phrase it cut quoted back so you can see what left. Prescription, with the reasoning that backs it.
 
-Three dials stack on top. Type any of them.
+**One call for you.** Only when a change turns on something the tool doesn't have, like a date you can actually hold. Usually absent.
 
-| Say this | You get |
-|---|---|
-| **Wax on, wax off** | Polish the jewel. Maximum concision |
-| **Paint the fence** | The relational read. Where you're leaking power |
-| **Sweep the leg** | Gloves off. Hardest read available |
+It rewrites by subtraction, so what comes back is shorter than what went in. That constraint is the design.
 
-Every note cites the principle behind it, so you can argue with it. A tool that grades against taste teaches you nothing. One that grades against a named standard teaches you the standard, and eventually you stop needing the tool. Which is the actual goal.
+Every change cites the principle behind it, so you can argue with it. A tool that grades against taste teaches you nothing. One that works from a named standard teaches you the standard, and eventually you stop needing the tool. Which is the actual goal.
 
 ## Solve for power asymmetry
 
@@ -135,7 +131,7 @@ The test is whether the person receiving your note would feel respected and bett
 
 Quiet Confidence is one skill, published in full. It comes from a library.
 
-**Storied AI™** puts Narrative Intelligence™ skills inside Claude and ChatGPT, callable in the flow of work through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. The language a company runs on, treated as infrastructure rather than decoration.
+**Storied AI™** puts Narrative Intelligence® skills inside Claude and ChatGPT, callable in the flow of work through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. The language a company runs on, treated as infrastructure rather than decoration.
 
 Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied-ai)
 
@@ -145,6 +141,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.1 © 2026 Get Storied, Inc. Storied® is a registered mark; Storied AI™ and Narrative Intelligence™ are trademarks of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.2 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

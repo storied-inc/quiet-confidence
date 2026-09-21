@@ -2,13 +2,26 @@
 
 **In the world of capital allocation, the number one currency is quiet confidence.**
 
-You rarely lose standing because someone takes it. You give it away, a sentence at a time, and you usually don't notice. The moves that cost you feel polite while you write them, and read as deference once someone else opens the email.
+Nothing to prove. The long position.
 
-This is the standard that catches them. It covers how you write when the stakes are high and the relationship matters more than any single deal. It works on both sides of the table, and it does the most for whoever has less power in the exchange.
+How to write and speak like someone trusted with consequential decisions. Quiet Confidence is that register as a portable system: the philosophy underneath it, the principles that govern it, and the concrete moves that produce it.
+
+It works on both sides of the capital table, and it does the most for whoever is holding less power in the exchange. Published in full, so you can read it, reword it in your own voice, and install it wherever you keep your standards.
+
+## Where you use it
+
+- **Email correspondence.** The ask, the follow-up, the reply you've rewritten four times
+- **Decision memos.** Where a recommendation has to survive people who weren't in the conversation
+- **Strategy docs.** Where conviction has to read as judgment rather than as a pitch
+- **Sales proposals.** Where the difference between confident and needy is worth the whole deal
+- **Negotiations.** Where every sentence either holds a position or concedes one
+- **Managing up, down, and across.** Where you have influence and no authority, or authority and no leverage
+
+Anywhere you want to sound more principled, more disciplined, and more self-assured, while still optimizing for mutual value creation, partnership, and the relationship.
 
 ## The hidden power leaks
 
-They're invisible while you're writing and obvious on a transcript. None of them come from weakness. Each one is a reasonable instinct doing the opposite of what you intended.
+Each one is a reasonable instinct doing the opposite of what you intended. That's why they stay invisible while you're writing and turn obvious on a transcript.
 
 | The leak | What it sounds like | What it costs you |
 |---|---|---|
@@ -40,17 +53,6 @@ You write with a model now. And a model's default output runs against this regis
 A model will run several of these in a single paragraph, and the draft will read fine to you, because it reads fine to everyone until it's in someone else's inbox with your name on it.
 
 This is why the tool rewrites against a named standard rather than being asked to make your draft better. Told to improve your writing, a model adds, because adding is what it does when it's trying to be useful. Told to write against a standard with named defects, it cuts.
-
-## Where you use it
-
-- **Email correspondence.** The ask, the follow-up, the reply you've rewritten four times
-- **Decision memos.** Where a recommendation has to survive people who weren't in the conversation
-- **Strategy docs.** Where conviction has to read as judgment rather than as a pitch
-- **Sales proposals.** Where the difference between confident and needy is worth the whole deal
-- **Negotiations.** Where every sentence either holds a position or concedes one
-- **Managing up, down, and across.** Where you have influence and no authority, or authority and no leverage
-
-Anywhere you want to sound more principled, more disciplined, and more self-assured, while still optimizing for mutual value creation, partnership, and the relationship.
 
 ## What GP register is, and is not
 
@@ -176,6 +178,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.7 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.8 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

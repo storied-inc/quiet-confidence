@@ -55,9 +55,9 @@ A model will run several of these in a single paragraph, and the draft will read
 
 This is why the tool rewrites against a named standard rather than being asked to make your draft better. Told to improve your writing, a model adds, because adding is what it does when it's trying to be useful. Told to write against a standard with named defects, it cuts.
 
-## What GP register is, and is not
+## What Quiet Confidence is, and is not
 
-| GP register is | GP register is not |
+| Quiet Confidence is | Quiet Confidence is not |
 |---|---|
 | Authority in service of a shared outcome | A technique for winning a private advantage |
 | Quiet confidence that treats the reader as a peer | Supplication, hedging, or asking permission to take up space |
@@ -179,6 +179,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.10 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.11 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

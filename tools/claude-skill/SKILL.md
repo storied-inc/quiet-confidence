@@ -102,9 +102,9 @@ Before rewriting, establish three things. Ask only for what the paste doesn't al
 - **What they want to happen next.** A rewrite needs a target.
 - **Where it sits in the exchange.** First contact, mid-deal, post-close, or a decline. Infer this and name your inference rather than asking.
 
-## What GP register is, and is not
+## What Quiet Confidence is, and is not
 
-| GP register is | GP register is not |
+| Quiet Confidence is | Quiet Confidence is not |
 |---|---|
 | Authority in service of a shared outcome | A technique for winning a private advantage |
 | Quiet confidence that treats the reader as a peer | Supplication, hedging, or asking permission to take up space |

@@ -253,6 +253,7 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v2.17 | 2026-09-21 | Public README only. The provenance block gains its subject. Every sentence in it was a headless fragment, and the byline that would have answered whose seven years sits at the very bottom of the page. Michael Margolis and Storied are now named in the block's first sentence, which credits the work where a reader meets it and lets every fragment after it resolve. No change to this guide beyond the version stamp. |
 | v2.18 | 2026-09-21 | Public README only. The provenance block closed on "the same short list of moves fixes all of it," which claimed the register does work it does not do. It now names the boundary: Quiet Confidence fixes how a case reads, not whether the case holds, and Disciplined Speculation is the separate method for building and underwriting the document. Under-claiming here is the standard applied to itself. No change to this guide beyond the version stamp. |
 | v2.19 | 2026-09-21 | Standardizes the spelling to **underwritable**, here and in the public README. The term was shipping two ways: this guide and the README had underwriteable, while `canon/disciplined-speculation` and the rest of the OS had underwritable, which is also the dictionary spelling. A signature term spelled two ways is the language debt this work exists to catch. |
+| v2.20 | 2026-09-21 | Public README only. Full-page audit for collapsed context. The opener now says plainly that Quiet Confidence is a voice register that reframes existing content and does not build the argument, which makes the scope a property of the definition rather than a disclaimer bolted to the provenance. The boundary paragraph comes out of the provenance block, where it contradicted the use-case list forty words below it. Storied AI and Disciplined Speculation are separated into two sections, because one is a skills layer you install and the other is a methodology delivered as an engagement, and calling both "part of Storied AI" promised a service as a product feature. |
 
 ## Storied AI
 
@@ -268,4 +269,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.19 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.20 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

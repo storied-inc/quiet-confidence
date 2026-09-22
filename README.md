@@ -20,11 +20,13 @@ The closer your writing gets to how a capital allocator thinks, the faster decis
 
 Michael Margolis spent seven years forward-deployed inside Facebook and Meta, crafting strategic narratives for H1/H2 reviews and planning cycles for more than a dozen product and organizational divisions. He runs Storied.
 
-The same failure modes show up in every planning system that runs big tech. OKR (Google), V2MOM (Salesforce), OP1 (Amazon). Different template, identical problem: a team with a real bet, and one document standing between that bet and the funding.
+He's seen the same failure modes show up in every planning system that runs big tech. OKR (Google), V2MOM (Salesforce), OP1 (Amazon). Different template, identical problem: a team with a real bet, and one document standing between that bet and the funding.
 
-And from the other side of the table. As a VC operating partner. With private equity investors. And with early-stage founders who have to make the case before the numbers can make it for them.
+And now he lives it from the other side of the table. As a VC operating partner. Working with private equity investors. Advising technical operators and early-stage founders. Anyone who has to make the case before the numbers can make it for them.
 
-Different tables and different templates. The same short list of moves fixes all of it.
+Different tables, different templates, the same failure modes.
+
+**One boundary worth naming.** Quiet Confidence is a register. It fixes how a case reads, not whether the case holds. Building the strategy document and underwriting the bet inside it is separate work and a separate method: **Disciplined Speculation**, which runs end to end on corporate strategy and investment committee decisions, and makes a plan legible and underwritable before it can be proven. Quiet Confidence is the register that document has to carry once it exists. Both are part of [Storied AI](#storied-ai).
 
 ## Where you use it
 
@@ -198,6 +200,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.17 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.18 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

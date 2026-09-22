@@ -65,9 +65,9 @@ One thing sits above every technique here. The register only works in service of
 
 > "The register works just as well when everyone at the table has read it."
 
-## What It Is, and Is Not
+## What Quiet Confidence Is, and Is Not
 
-| GP Register Is | GP Register Is Not |
+| Quiet Confidence Is | Quiet Confidence Is Not |
 |---|---|
 | Authority in service of a shared outcome | A technique for winning a private advantage |
 | Quiet confidence that treats the reader as a peer | Supplication, hedging, or asking permission to take up space |
@@ -242,6 +242,7 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v2.8 | 2026-09-21 | Public README reordered and its opener rewritten into the declarative register of the internal canon: what this is and what it contains, rather than a hypothetical about the reader. Where You Use It moves directly under the opener as the most legible entry point. Here, the abstract tail on the both-sides paragraph is cut; The Asymmetric Table already makes that claim concretely and at length. |
 | v2.9 | 2026-09-21 | The ethic is reordered to **The long position. With nothing to prove.** Michael's call. The long position is the load-bearing half, and leading with it puts the commitment first and the posture second. Carried to every live surface at once: the Name System row and the opening line here, in the public README, and in the Claude skill, plus the embedded rendering in the paste prompt and the internal canon. The 2026-08-26 naming records keep the original order, since they record what was chosen that day. |
 | v2.10 | 2026-09-21 | Public README only. Investment pitches joins the Where You Use It list ahead of sales proposals, with the asymmetry named as its distinguishing condition. Strategy docs drops "rather than as a pitch" for "rather than as selling," since the old wording used pitch pejoratively one line above the new entry. Version stamp moves in lockstep so this guide and the canon edition stay byte-identical. |
+| v2.11 | 2026-09-21 | The Is and Is Not section labels the package, so it now says **Quiet Confidence** rather than GP register, in the head and both column headers, here and in the public README and the Claude skill. The field guide's head also stops saying "What It Is" with no antecedent. Prose uses of GP register are untouched: per the Name System, Quiet Confidence is the name and GP register is the register, and both stay in service. |
 
 ## Storied AI
 
@@ -257,4 +258,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.10 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.11 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

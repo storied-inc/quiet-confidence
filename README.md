@@ -2,38 +2,23 @@
 
 **In the world of capital allocation, the number one currency is quiet confidence.**
 
-How to write and speak like someone trusted with consequential decisions. The way a person writes when their work and standing already speak for themselves, so nothing on the page has to.
+**Quiet Confidence is a voice register for high-stakes communication.** It runs in Claude, ChatGPT, and any model. It takes what you've already written, in any format, and frames it in the tone, posture, and language of a principled capital allocator.
 
-**Quiet Confidence is a voice register.** It takes what you've already written, in any format, and frames it in the tone, posture, and language of a principled capital allocator. Clear, concise, disciplined. No hedging, no apologizing, no over-explaining, no asking permission for a position you already hold. Those last four are hidden power leaks, and they are the subject of most of this page.
+How to write and speak like someone trusted with consequential decisions. Clear, concise, disciplined, with nothing to prove, because your work and your standing already speak for themselves. No hedging, no apologizing, no over-explaining, no asking permission for a position you already hold. Those last four are hidden power leaks, and they're the subject of most of this page.
 
 It changes how a case reads. It doesn't change what's in it, and it won't build you an argument you haven't made.
 
-**The long position. With nothing to prove.**
-
-Here it is as a portable system: the philosophy underneath it, the principles that govern it, and the concrete moves that produce it. It works on both sides of the capital table. Published in full, so you can read it, reword it in your own voice, and install it wherever you keep your standards.
-
-## Decision velocity
-
-Everyone is asking someone to allocate something. Headcount. A quarter of roadmap. A budget line. A reorg. The benefit of the doubt on a bet that won't show returns for four quarters.
-
-A head of product defending an H2 plan and a General Partner writing an LP update are doing the same work: making a case that someone with options can underwrite. The constraint is identical. Your reader has finite attention, real alternatives, and no obligation to give you either.
-
-Ambiguity gets priced as risk. A reader who can't tell what you're asking for, or can't tell whether you believe it, doesn't split the difference. They default to no, or to later, which is usually the same thing.
-
-Underneath that sits a second signal. Some asymmetry is always present: time, money, attention, reputation, demand, authority. The question is never whether it exists. It's what your language says about where you sit inside it, and whether you get read as a peer or as a subordinate. Almost nobody was taught this. [More on it below](#solve-for-power-asymmetry).
-
-The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwritable your version of the future becomes. That's the return: decision velocity, and a future someone else can put weight on.
+**Here it is as a portable system:** the philosophy underneath it, the principles that govern it, and the concrete moves that produce it. It works on both sides of the capital table. Published in full, so you can read it, run it, and install it wherever you keep your standards.
 
 ## Where you use it
 
-- **Email correspondence.** The ask, the follow-up, the reply you've rewritten four times
-- **Decision memos.** Where a recommendation has to survive people who weren't in the conversation
-- **Planning and roadmap reviews.** Where you defend a bet to the people who control the headcount
-- **Strategy docs.** Where conviction has to read as judgment rather than as selling
+- **Email and Slack.** The ask, the follow-up, the reply you've rewritten four times, and the two-line answer that sets the tone for a whole thread
+- **Managing up, down, and across.** Where you have influence and no authority, or authority and no leverage
 - **Investment pitches.** Raising a round, or updating the people who already funded you
 - **Sales proposals.** Where the difference between confident and needy is worth the whole deal
 - **Negotiations.** Where every sentence either holds a position or concedes one
-- **Managing up, down, and across.** Where you have influence and no authority, or authority and no leverage
+- **Planning and roadmap reviews.** Where you defend a bet to the people who control the headcount
+- **Strategy docs and decision memos.** Where conviction has to read as judgment rather than as selling, in front of people who weren't in the conversation
 
 Anywhere you want to sound more principled, more disciplined, and more self-assured, while still optimizing for mutual value creation, partnership, and the relationship.
 
@@ -50,6 +35,18 @@ Anywhere you want to sound more principled, more disciplined, and more self-assu
 
 If you can cut a sentence and lose nothing but reassurance, it was a move you didn't need.
 
+## Decision velocity
+
+Everyone is asking someone to allocate something. Headcount. A quarter of roadmap. A budget line. A reorg. The benefit of the doubt on a bet that won't show returns for four quarters.
+
+A head of product defending an H2 plan and a General Partner writing an LP update are doing the same work: making a case that someone with options can underwrite. The constraint is identical. Your reader has finite attention, real alternatives, and no obligation to give you either.
+
+Ambiguity gets priced as risk. A reader who can't tell what you're asking for, or can't tell whether you believe it, doesn't split the difference. They default to no, or to later, which is usually the same thing.
+
+Underneath that sits a second signal. Some asymmetry is always present: time, money, attention, reputation, demand, authority. The question is never whether it exists. It's what your language says about where you sit inside it, and whether you get read as a peer or as a subordinate. Almost nobody was taught this.
+
+The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwritable your version of the future becomes. That's the return: decision velocity, and a future someone else can put weight on.
+
 ## Where this comes from
 
 [Michael Margolis](https://www.linkedin.com/in/michaelmargolis/) spent seven years forward-deployed inside Facebook and Meta, crafting strategic narratives for H1/H2 reviews and planning cycles for more than a dozen product and organizational divisions.
@@ -60,7 +57,7 @@ And now he lives it from the other side of the table. As a VC operating partner.
 
 Today he runs [Storied](https://storiedinc.com), a narrative infrastructure company. He wrote this for his own work first, then made it public.
 
-Quiet Confidence is one of Storied's Narrative Intelligence skills. The rest run inside Claude and ChatGPT through [Storied AI](#storied-ai), and the method for building a case rather than framing one is [Disciplined Speculation](#disciplined-speculation). Both are further down this page.
+Quiet Confidence is one of Storied's Narrative Intelligence® skills. The rest run inside Claude and ChatGPT through [Storied AI](#storied-ai). The method for getting an investment case underwritten, rather than framed, is [Disciplined Speculation](#disciplined-speculation). Both are described further down.
 
 ## The hidden power leaks
 
@@ -126,6 +123,8 @@ Each principle carries a "why it matters" in [`field-guide.md`](field-guide.md),
 | [**Claude skill**](tools/claude-skill/SKILL.md) | One file, installed once | You live in Claude and want it to fire on its own |
 | [**ChatGPT**](tools/chatgpt/setup.md) | Build kit, plus a paid plan | You live in ChatGPT and want your own GPT |
 | [**Storied AI**](#storied-ai) | Private beta | Not a way to run this one. The skills layer it belongs to |
+
+**Already keep a voice file?** The field guide is written to be pasted into a `voice.md`, a `CLAUDE.md`, or whatever file your tooling reads for standards. The seven principles and the two tests are the part worth carrying there.
 
 Run order: paste prompt for a week. If you reach for it more than twice, install the durable version for whichever tool you actually live in. Skipping straight to the install is how most of these end up installed and never used.
 
@@ -233,16 +232,16 @@ In private beta. [**Join it at storiedinc.com/storied-ai**](https://www.storiedi
 
 A methodology for underwriting the future.
 
-Quiet Confidence sets the voice register a document carries. Disciplined Speculation builds what's inside it. Sometimes the case needs a more structured process than a register can give it: an investment thesis a VC or PE allocator has to underwrite, or a corporate strategy someone has to underwrite for their product or business division. That's the work of making a bet legible before it can be proven.
+Quiet Confidence sets the voice register a document carries. Disciplined Speculation builds what's inside it. Sometimes the case needs a more structured process than a voice register can give it: an investment thesis a VC or PE allocator has to underwrite, or a corporate strategy an executive board has to underwrite for a product or business division. That's the work of making a speculative bet legible before it can be proven.
 
 It's delivered as an engagement with Storied, not as something you install. [storiedinc.com](https://storiedinc.com)
 
 ## License
 
-[CC BY 4.0](LICENSE). Use it, adapt it, put it in your own voice file. Attribution is required by the license and takes one line.
+[CC BY 4.0](LICENSE). Use it, adapt it, drop it into your own `voice.md`. Attribution is required by the license and takes one line.
 
 ---
 
-Quiet Confidence v3.2 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v3.3 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

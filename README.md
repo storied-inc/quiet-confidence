@@ -8,10 +8,27 @@ How to write and speak like someone trusted with consequential decisions. Quiet 
 
 It works on both sides of the capital table, and it does the most for whoever is holding less power in the exchange. Published in full, so you can read it, reword it in your own voice, and install it wherever you keep your standards.
 
+## Why this travels past the capital table
+
+Everyone is asking someone to allocate something. Headcount. A quarter of roadmap. A budget line. A reorg. The benefit of the doubt on a bet that won't show returns for four quarters.
+
+A head of product defending an H2 plan and a general partner writing an LP update are doing the same work: making a case that someone with options can underwrite. The constraint is identical. Your reader has finite attention, real alternatives, and no obligation to give you either.
+
+The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwriteable your version of the future becomes. That's the return on this: decision velocity, and a future someone else can put weight on.
+
+## Where this comes from
+
+Seven years forward-deployed inside Facebook and Meta, running the H1 and H2 strategic narrative reviews for more than a dozen product and organizational divisions, in planning cycles that allocated billions of dollars.
+
+Since then, the same work from the other side of the table. As a VC operating partner. With private equity investors. And with early-stage founders who have to make the case before the numbers can make it for them.
+
+Different tables, the same failure modes, and the same short list of moves that close them.
+
 ## Where you use it
 
 - **Email correspondence.** The ask, the follow-up, the reply you've rewritten four times
 - **Decision memos.** Where a recommendation has to survive people who weren't in the conversation
+- **Planning and roadmap reviews.** Where you defend a bet to the people who control the headcount
 - **Strategy docs.** Where conviction has to read as judgment rather than as selling
 - **Investment pitches.** Raising a round, or updating the people who already funded you, where the asymmetry is real and both sides know it
 - **Sales proposals.** Where the difference between confident and needy is worth the whole deal
@@ -179,6 +196,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.11 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.12 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

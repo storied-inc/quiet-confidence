@@ -10,19 +10,23 @@ description: >
   rather than the win available today. It works on both sides of the capital table, and hardest for
   the operators, founders, advisors, and service partners who sit across from capital allocators and
   have to hold peer footing while the other side controls the capital, the clock, and the calendar.
+  It travels past that table, because everyone is asking someone to allocate something: headcount, a
+  quarter of roadmap, a budget line, the benefit of the doubt. A head of product defending an H2 plan
+  and a general partner writing an LP update are doing the same work.
   SHORTCODES: two names, and only two. Fire on "Quiet Confidence", and on "GP register" with its
   variations: "GP tone", "make this more GP", "write this in GP register", "check my register",
   "is this GP". Both resolve to the same standard. Do NOT treat the output section names ("the
   rewrite", "the underwriting") or the lexicon terms ("unrequested rationale", "peer footing",
   "solve for power asymmetry") as invocation triggers. Those are vocabulary for the output,
   not shortcodes.
-  asymmetry") as invocation triggers. Those are vocabulary for the output, not shortcodes.
   Use this skill whenever someone wants an email, Slack message, DM, LinkedIn note, decline, intro
   reply, follow-up, negotiation message, investor update, or any piece of correspondence read before
   it goes out. Trigger on "audit this email", "does this leak power", "is this too long",
   "am I supplicating", "read this before I send it", "how does this land", "too eager", "too needy",
   "gut check this note", "tighten this", "did I over-explain", "should I hedge this less",
   "review my follow-up", "is this peer or vendor", "they're treating me like a vendor",
+  "review my roadmap memo", "tighten this planning narrative", "does this read as a strong bet",
+  "will this survive the review", "I'm asking for headcount", "defend this plan",
   "how do I not look desperate", "should I follow up or wait", "they said they'd get back to me".
   Also fires when a draft is pasted with any evaluative intent, or when someone asks how to decline,
   how to follow up without chasing, or how to hold peer footing with a counterparty treating them as

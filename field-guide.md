@@ -9,6 +9,8 @@ This is a guide to a register: the way a general partner writes and speaks when 
 
 It's written for both sides of the capital table. For allocators, it's how you sound at your best. For the operators, founders, advisors, and partners who sit across from allocators, it's how you hold peer footing when the other side controls the capital, the clock, and the calendar.
 
+It travels past that table, because everyone is asking someone to allocate something: headcount, a quarter of roadmap, a budget line, the benefit of the doubt. A head of product defending an H2 plan and a general partner writing an LP update are doing the same work, making a case that someone with options can underwrite. The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwriteable your version of the future becomes.
+
 One skill from the Storied library, published in full. Read it, reword it in your own voice, and install it wherever you keep your standards. It's built to be made yours.
 
 ## The Name System
@@ -243,6 +245,7 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v2.9 | 2026-09-21 | The ethic is reordered to **The long position. With nothing to prove.** Michael's call. The long position is the load-bearing half, and leading with it puts the commitment first and the posture second. Carried to every live surface at once: the Name System row and the opening line here, in the public README, and in the Claude skill, plus the embedded rendering in the paste prompt and the internal canon. The 2026-08-26 naming records keep the original order, since they record what was chosen that day. |
 | v2.10 | 2026-09-21 | Public README only. Investment pitches joins the Where You Use It list ahead of sales proposals, with the asymmetry named as its distinguishing condition. Strategy docs drops "rather than as a pitch" for "rather than as selling," since the old wording used pitch pejoratively one line above the new entry. Version stamp moves in lockstep so this guide and the canon edition stay byte-identical. |
 | v2.11 | 2026-09-21 | The Is and Is Not section labels the package, so it now says **Quiet Confidence** rather than GP register, in the head and both column headers, here and in the public README and the Claude skill. The field guide's head also stops saying "What It Is" with no antecedent. Prose uses of GP register are untouched: per the Name System, Quiet Confidence is the name and GP register is the register, and both stay in service. |
+| v2.12 | 2026-09-21 | Opens the audience past capital allocators. Everyone is asking someone to allocate something, so a head of product defending an H2 plan and a general partner writing an LP update are running the same play. Names the return in the terms that matter to an operator: decision velocity, and a future someone else can underwrite. The public README carries the same bridge plus a provenance section and a planning-and-roadmap use case. |
 
 ## Storied AI
 
@@ -258,4 +261,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.11 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.12 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

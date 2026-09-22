@@ -248,6 +248,7 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v2.12 | 2026-09-21 | Opens the audience past capital allocators. Everyone is asking someone to allocate something, so a head of product defending an H2 plan and a general partner writing an LP update are running the same play. Names the return in the terms that matter to an operator: decision velocity, and a future someone else can underwrite. The public README carries the same bridge plus a provenance section and a planning-and-roadmap use case. |
 | v2.13 | 2026-09-21 | Public README only. The provenance section names the other two planning systems, OP1 at Amazon and V2MOM at Salesforce, alongside H1 and H2 at Meta. The formats are what a tech operator recognizes, and naming all three makes the claim specific rather than a logo list. No change to this guide beyond the version stamp, which moves with the work. |
 | v2.14 | 2026-09-21 | Public README only. The provenance softens from working inside Amazon's and Salesforce's planning systems to applying the same work to them, and adds OKR at Google. "Applied to" describes the method's reach rather than asserting a client roster on a public page, which is the accurate and lower-exposure claim. No change to this guide beyond the version stamp. |
+| v2.15 | 2026-09-21 | Public README only. The Meta line moves from running the reviews to crafting the strategic narratives for them, and drops the billions-of-dollars scale claim. Both changes trade a scale signal for an accurate description of the work, which is the trade this standard's own second principle asks for. No change to this guide beyond the version stamp. |
 
 ## Storied AI
 
@@ -263,4 +264,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.14 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.15 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

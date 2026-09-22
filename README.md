@@ -1,6 +1,6 @@
 # Quiet Confidence
 
-**Quiet Confidence is a voice register for high-stakes communication.** It runs in Claude, ChatGPT, and any model. It takes what you've already written, in any format, and frames it in the tone, posture, and language of a principled capital allocator, whether you are one or need to influence one. 
+**Quiet Confidence is a voice register for high-stakes communication.** It runs in Claude, ChatGPT, and any model. It takes what you've already written, in any format, and frames it in the tone, posture, and language of a principled capital allocator. Whether you are one, work with one, or want to become one. 
 
 **How to write and speak like someone trusted with consequential decisions.** Clear, concise, disciplined, with nothing to prove, because your work and your standing already speak for themselves. No hedging, no apologizing, no over-explaining, no asking permission for a position you already hold. Those last four are hidden power leaks, and they're the subject of most of this page. 
 

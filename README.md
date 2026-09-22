@@ -10,7 +10,7 @@
 
 ## Where you use it
 
-- **Email and Slack.** The ask, the follow-up, the reply you've rewritten four times, the two-line answer that sets the tone
+- **Email and Slack.** The ask, the update, the reply you've rewritten 4x times, the two-liner that sets the tone
 - **Managing up, down, and across.** Where you have influence and no authority, or authority and no leverage
 - **Investment pitches.** Raising a round, or updating the people who already funded you
 - **Sales proposals.** Where the difference between confident and needy is worth the whole deal

@@ -6,7 +6,7 @@
 
 **In the world of capital allocation, the number one currency is quiet confidence.** It changes how a case reads. It doesn't change what's in it, and it won't build you an argument you haven't made.
 
-**Here it is as a portable system:** the philosophy underneath it, the principles that govern it, and the concrete moves that produce it. It works on both sides of the capital table. Published in full, so you can read it, run it, and install it wherever you keep your standards.
+**Here it is as a portable system:** the philosophy underneath it, the principles that govern it, and the concrete moves that produce it. It works on both sides of the capital table. Published in full, so you can read it, run it, and install it wherever you keep your voice standards (voice.md, claude.md, etc).
 
 ## Where you use it
 

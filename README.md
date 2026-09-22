@@ -37,6 +37,19 @@ The closer your writing gets to how a capital allocator thinks, the faster decis
 
 Anywhere you want to sound more principled, more disciplined, and more self-assured, while still optimizing for mutual value creation, partnership, and the relationship.
 
+## What Quiet Confidence is, and is not
+
+| Quiet Confidence is | Quiet Confidence is not |
+|---|---|
+| **Authority in service of a shared outcome** | A technique for winning a private advantage |
+| **Treats the reader as a peer** | Supplication, hedging, or asking permission to take up space |
+| **One clean statement, then silence** | Restating, over-explaining, or justifying the ask |
+| **Warmth that is genuine and brief** | Flattery, validation lines, or praise engineered to soften a yes |
+| **Inevitable: the conclusion feels discovered** | Persuasive: the conclusion feels argued and pushed |
+| **Generous in spirit, scarce with time** | Available to everything, or coldly ranking what deserves a reply |
+
+If you can cut a sentence and lose nothing but reassurance, it was a move you didn't need.
+
 ## Where this comes from
 
 [Michael Margolis](https://www.linkedin.com/in/michaelmargolis/) spent seven years forward-deployed inside Facebook and Meta, crafting strategic narratives for H1/H2 reviews and planning cycles for more than a dozen product and organizational divisions.
@@ -64,28 +77,6 @@ Each one is a reasonable instinct doing the opposite of what you intended. That'
 
 Six leaks. You probably run two of them by habit and can't see either one.
 
-## What it looks like
-
-Two of the moves, with a real before and after. The "out" column is what a capable person actually sends.
-
-**Trimming or moving a meeting.** Make the ask, add a plain optionality line, stop. Don't justify the trim, and never explain your calendar.
-
-| In register | Out of register |
-|---|---|
-| "Could we hold it to 30 min? We can grab more time if we're onto something." | "Could we keep this to 30? My calendar is brutal this month and the back-to-backs are killing me, but happy to find more if we need it." |
-
-The second version justifies the trim and over-shares the calendar. It hands the other person a problem to manage and reads as harried rather than in command.
-
-**When the other side has already said yes.** The message has no persuasion job left. Write the logistics and stop.
-
-| In register | Out of register |
-|---|---|
-| "Good. Docs today, and let's close Friday. Looping in Priya so she has the thread." | "That's wonderful news, thank you so much! I'm genuinely excited to be working together. Just to reiterate what makes this such a strong fit: [three reasons]. Docs today and we can aim for Friday. Thanks again for your confidence in us!" |
-
-This is the one almost nobody catches. The deal is done and the second version is still selling. Every reason added after a yes is a reason the other side can now reconsider, and opening on thanks and excitement hands back the standing the yes just conferred.
-
-[`field-guide.md`](field-guide.md) carries the rest: the intro you can't take, the forward, the budget objection, subject lines, and peer versus buyer texture.
-
 ## What default AI does to your writing
 
 You can catch your own leaks by rereading, because you know what you meant. You can't catch a model's, because the draft never felt like yours to interrogate in the first place.
@@ -104,19 +95,6 @@ Most writing is AI-assisted now, and a foundational model's default output runs 
 These are tones, not behaviors. The leaks above are things you do when the stakes rise; these are what a machine sounds like when it's trying to help. "Too sure" is the tell that the two lists are different lists, because no nervous writer has ever had that problem.
 
 This is why the tool rewrites against a named standard rather than being asked to make your draft better. Told to improve your writing, a model adds. Told to write against a standard with named defects, it cuts.
-
-## What Quiet Confidence is, and is not
-
-| Quiet Confidence is | Quiet Confidence is not |
-|---|---|
-| **Authority in service of a shared outcome** | A technique for winning a private advantage |
-| **Treats the reader as a peer** | Supplication, hedging, or asking permission to take up space |
-| **One clean statement, then silence** | Restating, over-explaining, or justifying the ask |
-| **Warmth that is genuine and brief** | Flattery, validation lines, or praise engineered to soften a yes |
-| **Inevitable: the conclusion feels discovered** | Persuasive: the conclusion feels argued and pushed |
-| **Generous in spirit, scarce with time** | Available to everything, or coldly ranking what deserves a reply |
-
-If you can cut a sentence and lose nothing but reassurance, it was a move you didn't need.
 
 ## The principles
 
@@ -198,6 +176,28 @@ So this treats it as a voice register, and a register has principles you can cit
 
 The fourth row is the one people fail. Internal validation is easy to claim and it shows up, or doesn't, in exactly two places: what you write after a compliment, and what you write after a week of nothing.
 
+## What it looks like
+
+Two of the moves, with a real before and after. The "out" column is what a capable person actually sends.
+
+**Trimming or moving a meeting.** Make the ask, add a plain optionality line, stop. Don't justify the trim, and never explain your calendar.
+
+| In register | Out of register |
+|---|---|
+| "Could we hold it to 30 min? We can grab more time if we're onto something." | "Could we keep this to 30? My calendar is brutal this month and the back-to-backs are killing me, but happy to find more if we need it." |
+
+The second version justifies the trim and over-shares the calendar. It hands the other person a problem to manage and reads as harried rather than in command.
+
+**When the other side has already said yes.** The message has no persuasion job left. Write the logistics and stop.
+
+| In register | Out of register |
+|---|---|
+| "Good. Docs today, and let's close Friday. Looping in Priya so she has the thread." | "That's wonderful news, thank you so much! I'm genuinely excited to be working together. Just to reiterate what makes this such a strong fit: [three reasons]. Docs today and we can aim for Friday. Thanks again for your confidence in us!" |
+
+This is the one almost nobody catches. The deal is done and the second version is still selling. Every reason added after a yes is a reason the other side can now reconsider, and opening on thanks and excitement hands back the standing the yes just conferred.
+
+[`field-guide.md`](field-guide.md) carries the rest: the intro you can't take, the forward, the budget objection, subject lines, and peer versus buyer texture.
+
 ## The name system
 
 Ten handles, and that's deliberate. A standard people can actually run needs names for its parts: a name for the thing, a name for the law, a name for the defect you keep committing. Language you can say out loud is language that travels to the rest of your firm without you carrying it there.
@@ -243,6 +243,6 @@ It's delivered as an engagement with Storied, not as something you install. [sto
 
 ---
 
-Quiet Confidence v3.1 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v3.2 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

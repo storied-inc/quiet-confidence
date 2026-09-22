@@ -20,11 +20,11 @@ The closer your writing gets to how a capital allocator thinks, the faster decis
 
 Seven years forward-deployed inside Facebook and Meta, crafting strategic narratives for H1/H2 reviews and planning cycles for more than a dozen product and organizational divisions.
 
-Since then, the same work applied to the other planning systems that run big tech. OKR (Google), V2MOM (Salesforce), OP1 (Amazon). Different template, identical problem: a team with a real bet, and one document standing between that bet and the funding.
+The same failure modes show up in every planning system that runs big tech. OKR (Google), V2MOM (Salesforce), OP1 (Amazon). Different template, identical problem: a team with a real bet, and one document standing between that bet and the funding.
 
 And from the other side of the table. As a VC operating partner. With private equity investors. And with early-stage founders who have to make the case before the numbers can make it for them.
 
-Different tables, the same failure modes, and the same short list of moves that close them.
+Different tables and different templates. The same short list of moves fixes all of it.
 
 ## Where you use it
 
@@ -198,6 +198,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.15 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.16 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

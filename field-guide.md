@@ -251,6 +251,7 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v2.15 | 2026-09-21 | Public README only. The Meta line moves from running the reviews to crafting the strategic narratives for them, and drops the billions-of-dollars scale claim. Both changes trade a scale signal for an accurate description of the work, which is the trade this standard's own second principle asks for. No change to this guide beyond the version stamp. |
 | v2.16 | 2026-09-21 | Public README only. The planning-systems line stops claiming work applied to those systems and claims the pattern instead: the same failure modes show up in every planning system that runs big tech. A statement about the world rather than about a client roster. The block's closing line drops its own "same failure modes" to avoid the echo that created. No change to this guide beyond the version stamp. |
 | v2.17 | 2026-09-21 | Public README only. The provenance block gains its subject. Every sentence in it was a headless fragment, and the byline that would have answered whose seven years sits at the very bottom of the page. Michael Margolis and Storied are now named in the block's first sentence, which credits the work where a reader meets it and lets every fragment after it resolve. No change to this guide beyond the version stamp. |
+| v2.18 | 2026-09-21 | Public README only. The provenance block closed on "the same short list of moves fixes all of it," which claimed the register does work it does not do. It now names the boundary: Quiet Confidence fixes how a case reads, not whether the case holds, and Disciplined Speculation is the separate method for building and underwriting the document. Under-claiming here is the standard applied to itself. No change to this guide beyond the version stamp. |
 
 ## Storied AI
 
@@ -266,4 +267,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.17 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.18 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

@@ -18,7 +18,7 @@ The closer your writing gets to how a capital allocator thinks, the faster decis
 
 ## Where this comes from
 
-Seven years forward-deployed inside Facebook and Meta, crafting strategic narratives for H1/H2 reviews and planning cycles for more than a dozen product and organizational divisions.
+Michael Margolis spent seven years forward-deployed inside Facebook and Meta, crafting strategic narratives for H1/H2 reviews and planning cycles for more than a dozen product and organizational divisions. He runs Storied.
 
 The same failure modes show up in every planning system that runs big tech. OKR (Google), V2MOM (Salesforce), OP1 (Amazon). Different template, identical problem: a team with a real bet, and one document standing between that bet and the funding.
 
@@ -198,6 +198,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.16 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.17 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

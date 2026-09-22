@@ -9,7 +9,7 @@ This is a guide to a register: the way a general partner writes and speaks when 
 
 It's written for both sides of the capital table. For allocators, it's how you sound at your best. For the operators, founders, advisors, and partners who sit across from allocators, it's how you hold peer footing when the other side controls the capital, the clock, and the calendar.
 
-It travels past that table, because everyone is asking someone to allocate something: headcount, a quarter of roadmap, a budget line, the benefit of the doubt. A head of product defending an H2 plan and a general partner writing an LP update are doing the same work, making a case that someone with options can underwrite. The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwriteable your version of the future becomes.
+It travels past that table, because everyone is asking someone to allocate something: headcount, a quarter of roadmap, a budget line, the benefit of the doubt. A head of product defending an H2 plan and a general partner writing an LP update are doing the same work, making a case that someone with options can underwrite. The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwritable your version of the future becomes.
 
 One skill from the Storied library, published in full. Read it, reword it in your own voice, and install it wherever you keep your standards. It's built to be made yours.
 
@@ -252,6 +252,7 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v2.16 | 2026-09-21 | Public README only. The planning-systems line stops claiming work applied to those systems and claims the pattern instead: the same failure modes show up in every planning system that runs big tech. A statement about the world rather than about a client roster. The block's closing line drops its own "same failure modes" to avoid the echo that created. No change to this guide beyond the version stamp. |
 | v2.17 | 2026-09-21 | Public README only. The provenance block gains its subject. Every sentence in it was a headless fragment, and the byline that would have answered whose seven years sits at the very bottom of the page. Michael Margolis and Storied are now named in the block's first sentence, which credits the work where a reader meets it and lets every fragment after it resolve. No change to this guide beyond the version stamp. |
 | v2.18 | 2026-09-21 | Public README only. The provenance block closed on "the same short list of moves fixes all of it," which claimed the register does work it does not do. It now names the boundary: Quiet Confidence fixes how a case reads, not whether the case holds, and Disciplined Speculation is the separate method for building and underwriting the document. Under-claiming here is the standard applied to itself. No change to this guide beyond the version stamp. |
+| v2.19 | 2026-09-21 | Standardizes the spelling to **underwritable**, here and in the public README. The term was shipping two ways: this guide and the README had underwriteable, while `canon/disciplined-speculation` and the rest of the OS had underwritable, which is also the dictionary spelling. A signature term spelled two ways is the language debt this work exists to catch. |
 
 ## Storied AI
 
@@ -267,4 +268,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.18 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.19 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

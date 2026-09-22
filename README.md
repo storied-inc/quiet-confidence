@@ -14,7 +14,7 @@ Everyone is asking someone to allocate something. Headcount. A quarter of roadma
 
 A head of product defending an H2 plan and a general partner writing an LP update are doing the same work: making a case that someone with options can underwrite. The constraint is identical. Your reader has finite attention, real alternatives, and no obligation to give you either.
 
-The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwriteable your version of the future becomes. That's the return on this: decision velocity, and a future someone else can put weight on.
+The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwritable your version of the future becomes. That's the return on this: decision velocity, and a future someone else can put weight on.
 
 ## Where this comes from
 
@@ -200,6 +200,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.18 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.19 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

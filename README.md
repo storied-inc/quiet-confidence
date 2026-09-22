@@ -12,7 +12,8 @@ It works on both sides of the capital table, and it does the most for whoever is
 
 - **Email correspondence.** The ask, the follow-up, the reply you've rewritten four times
 - **Decision memos.** Where a recommendation has to survive people who weren't in the conversation
-- **Strategy docs.** Where conviction has to read as judgment rather than as a pitch
+- **Strategy docs.** Where conviction has to read as judgment rather than as selling
+- **Investment pitches.** Raising a round, or updating the people who already funded you, where the asymmetry is real and both sides know it
 - **Sales proposals.** Where the difference between confident and needy is worth the whole deal
 - **Negotiations.** Where every sentence either holds a position or concedes one
 - **Managing up, down, and across.** Where you have influence and no authority, or authority and no leverage
@@ -178,6 +179,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.9 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.10 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

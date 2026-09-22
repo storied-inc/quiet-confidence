@@ -241,6 +241,7 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v2.7 | 2026-09-21 | Plain-language pass on the opening claims here and in the public README. The prior wording leaned on balanced, mirrored clauses ("instincts that feel like good manners... land as deference," "works hardest when the table isn't level") that read as clever before they read as clear. Same claims, said plainly. |
 | v2.8 | 2026-09-21 | Public README reordered and its opener rewritten into the declarative register of the internal canon: what this is and what it contains, rather than a hypothetical about the reader. Where You Use It moves directly under the opener as the most legible entry point. Here, the abstract tail on the both-sides paragraph is cut; The Asymmetric Table already makes that claim concretely and at length. |
 | v2.9 | 2026-09-21 | The ethic is reordered to **The long position. With nothing to prove.** Michael's call. The long position is the load-bearing half, and leading with it puts the commitment first and the posture second. Carried to every live surface at once: the Name System row and the opening line here, in the public README, and in the Claude skill, plus the embedded rendering in the paste prompt and the internal canon. The 2026-08-26 naming records keep the original order, since they record what was chosen that day. |
+| v2.10 | 2026-09-21 | Public README only. Investment pitches joins the Where You Use It list ahead of sales proposals, with the asymmetry named as its distinguishing condition. Strategy docs drops "rather than as a pitch" for "rather than as selling," since the old wording used pitch pejoratively one line above the new entry. Version stamp moves in lockstep so this guide and the canon edition stay byte-identical. |
 
 ## Storied AI
 
@@ -256,4 +257,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v2.9 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.10 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

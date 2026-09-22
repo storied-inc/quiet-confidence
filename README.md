@@ -20,7 +20,9 @@ The closer your writing gets to how a capital allocator thinks, the faster decis
 
 Seven years forward-deployed inside Facebook and Meta, running the H1 and H2 strategic narrative reviews for more than a dozen product and organizational divisions, in planning cycles that allocated billions of dollars.
 
-Since then, the same work from the other side of the table. As a VC operating partner. With private equity investors. And with early-stage founders who have to make the case before the numbers can make it for them.
+Since then, the same work inside the other planning systems that run big tech. OP1 at Amazon. V2MOM at Salesforce. Different template, identical problem: a team with a real bet, and one document standing between that bet and the funding.
+
+And from the other side of the table. As a VC operating partner. With private equity investors. And with early-stage founders who have to make the case before the numbers can make it for them.
 
 Different tables, the same failure modes, and the same short list of moves that close them.
 
@@ -196,6 +198,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.12 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.13 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

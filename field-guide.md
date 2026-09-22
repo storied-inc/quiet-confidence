@@ -143,7 +143,13 @@ The second apologizes twice, over-explains, and leaves false hope through sheer 
 
 ### When the other side is already sold
 
-When the founder or co-investor has already said yes, the message has no persuasion job left. Write the logistics and the footing for anyone new to the thread. Nothing else. No punchlines, no validation lines, no praising their own phrasing back to them. Flattery at the close is sycophancy wearing the costume of warmth, and the better the counterpart, the faster they feel it. The deal is done. Stop selling.
+When the founder or co-investor has already said yes, the message has no persuasion job left. Write the logistics and the footing for anyone new to the thread. Nothing else.
+
+| In register | Out of register |
+|---|---|
+| "Good. Docs today, and let's close Friday. Looping in Priya so she has the thread." | "That's wonderful news, thank you so much! I'm genuinely excited to be working together. Just to reiterate what makes this such a strong fit: [three reasons]. Docs today and we can aim for Friday. Thanks again for your confidence in us!" |
+
+This is the one almost nobody catches. Every reason added after a yes is a reason the other side can now reconsider, and opening on thanks and excitement hands back the standing the yes just conferred. No punchlines, no validation lines, no praising their own phrasing back to them. Flattery at the close is sycophancy wearing the costume of warmth, and the better the counterpart, the faster they feel it. The deal is done. Stop selling.
 
 ### Subject lines and openers
 
@@ -255,6 +261,7 @@ Withhold or soften it for content meant to run hot, for genuine celebration wher
 | v2.19 | 2026-09-21 | Standardizes the spelling to **underwritable**, here and in the public README. The term was shipping two ways: this guide and the README had underwriteable, while `canon/disciplined-speculation` and the rest of the OS had underwritable, which is also the dictionary spelling. A signature term spelled two ways is the language debt this work exists to catch. |
 | v2.20 | 2026-09-21 | Public README only. Full-page audit for collapsed context. The opener now says plainly that Quiet Confidence is a voice register that reframes existing content and does not build the argument, which makes the scope a property of the definition rather than a disclaimer bolted to the provenance. The boundary paragraph comes out of the provenance block, where it contradicted the use-case list forty words below it. Storied AI and Disciplined Speculation are separated into two sections, because one is a skills layer you install and the other is a methodology delivered as an engagement, and calling both "part of Storied AI" promised a service as a product feature. |
 | v3.0 | 2026-09-22 | Public README restructured to v3.0 after a full-page audit and a Fable plan gate. The opener carries the definition, the descriptor set, and the leak preview; the bridge section is renamed Decision Velocity and gains the risk clause and a parity teaser; the provenance closes on why the guide was written; worked before-and-afters from this guide are previewed on page 1; the AI section is cut from nine tonal rows to six and no longer duplicates the leaks table; the principles are reordered from the relationship outward to the mechanics; the power-asymmetry section is reframed on signalling parity rather than on being the disadvantaged party; shortcodes are stated at the head of the install index. Version numbering jumps to 3.0 rather than renaming 2.20, which would have collided with the existing v2.2. |
+| v3.1 | 2026-09-22 | Adds a before-and-after to "When the other side is already sold," which described the move in prose without showing it. The public README previews this pair plus the meeting trim. In the README, Where You Use It moves above the provenance so a reader learns whether the thing applies to them before being told who wrote it, and the provenance closes on Storied, the authorship, and a preview of Storied AI and Disciplined Speculation rather than making a reader reach the bottom to find them. |
 
 ## Storied AI
 
@@ -270,4 +277,4 @@ I published this one because the register travels. It's as useful across a cap t
 
 ---
 
-Quiet Confidence v3.0 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v3.1 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

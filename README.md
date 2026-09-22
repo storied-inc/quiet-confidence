@@ -24,16 +24,6 @@ Underneath that sits a second signal. Some asymmetry is always present: time, mo
 
 The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwritable your version of the future becomes. That's the return: decision velocity, and a future someone else can put weight on.
 
-## Where this comes from
-
-[Michael Margolis](https://www.linkedin.com/in/michaelmargolis/) spent seven years forward-deployed inside Facebook and Meta, crafting strategic narratives for H1/H2 reviews and planning cycles for more than a dozen product and organizational divisions. He runs [Storied](https://storiedinc.com).
-
-He's seen the same failure modes show up in every planning system that runs big tech. OKR (Google), V2MOM (Salesforce), OP1 (Amazon). Different template, identical problem: a team with a real bet, and one document standing between that bet and the funding.
-
-And now he lives it from the other side of the table. As a VC operating partner. Working with private equity investors. Advising technical operators and early-stage founders. Anyone who has to make the case before the numbers can make it for them.
-
-He wrote the guide nobody wrote for him, and published it so it reaches as many people as it can.
-
 ## Where you use it
 
 - **Email correspondence.** The ask, the follow-up, the reply you've rewritten four times
@@ -46,6 +36,18 @@ He wrote the guide nobody wrote for him, and published it so it reaches as many 
 - **Managing up, down, and across.** Where you have influence and no authority, or authority and no leverage
 
 Anywhere you want to sound more principled, more disciplined, and more self-assured, while still optimizing for mutual value creation, partnership, and the relationship.
+
+## Where this comes from
+
+[Michael Margolis](https://www.linkedin.com/in/michaelmargolis/) spent seven years forward-deployed inside Facebook and Meta, crafting strategic narratives for H1/H2 reviews and planning cycles for more than a dozen product and organizational divisions.
+
+He's seen the same failure modes show up in every planning system that runs big tech. OKR (Google), V2MOM (Salesforce), OP1 (Amazon). Different template, identical problem: a team with a real bet, and one document standing between that bet and the funding.
+
+And now he lives it from the other side of the table. As a VC operating partner. Working with private equity investors. Advising technical operators and early-stage founders. Anyone who has to make the case before the numbers can make it for them.
+
+Today he runs [Storied](https://storiedinc.com), a narrative infrastructure company. He wrote this for his own work first, then made it public.
+
+Quiet Confidence is one of Storied's Narrative Intelligence skills. The rest run inside Claude and ChatGPT through [Storied AI](#storied-ai), and the method for building a case rather than framing one is [Disciplined Speculation](#disciplined-speculation). Both are further down this page.
 
 ## The hidden power leaks
 
@@ -74,15 +76,15 @@ Two of the moves, with a real before and after. The "out" column is what a capab
 
 The second version justifies the trim and over-shares the calendar. It hands the other person a problem to manage and reads as harried rather than in command.
 
-**The intro you can't take.** Warmth, then boundary, then a clean exit. Decline on fit or timing, never on the person.
+**When the other side has already said yes.** The message has no persuasion job left. Write the logistics and stop.
 
 | In register | Out of register |
 |---|---|
-| "Thanks for the intro, [name]. Interesting space. My focus is committed right now, so I'm not the right partner for this round, but I'd keep the door open if timing shifts. Glad you thought of me." | "Thank you so much, I'm honored you'd think of me! Unfortunately I'm completely underwater right now, so I don't think I can take this on, but please don't hesitate to circle back and I'm so sorry I can't be more help!" |
+| "Good. Docs today, and let's close Friday. Looping in Priya so she has the thread." | "That's wonderful news, thank you so much! I'm genuinely excited to be working together. Just to reiterate what makes this such a strong fit: [three reasons]. Docs today and we can aim for Friday. Thanks again for your confidence in us!" |
 
-The second apologizes twice, over-explains, and leaves false hope through sheer effusiveness. A founder who reads the first one feels respected, not managed.
+This is the one almost nobody catches. The deal is done and the second version is still selling. Every reason added after a yes is a reason the other side can now reconsider, and opening on thanks and excitement hands back the standing the yes just conferred.
 
-[`field-guide.md`](field-guide.md) carries the rest: the forward, the budget objection, when the other side is already sold, subject lines, and peer versus buyer texture.
+[`field-guide.md`](field-guide.md) carries the rest: the intro you can't take, the forward, the budget objection, subject lines, and peer versus buyer texture.
 
 ## What default AI does to your writing
 
@@ -241,6 +243,6 @@ It's delivered as an engagement with Storied, not as something you install. [sto
 
 ---
 
-Quiet Confidence v3.0 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v3.1 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

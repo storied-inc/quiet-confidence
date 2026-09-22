@@ -2,31 +2,37 @@
 
 **In the world of capital allocation, the number one currency is quiet confidence.**
 
-The long position. With nothing to prove.
+How to write and speak like someone trusted with consequential decisions. The way a person writes when their work and standing already speak for themselves, so nothing on the page has to.
 
-How to write and speak like someone trusted with consequential decisions. The register of a person whose work and standing already speak for themselves, so nothing on the page has to.
+**Quiet Confidence is a voice register.** It takes what you've already written, in any format, and frames it in the tone, posture, and language of a principled capital allocator. Clear, concise, disciplined. No hedging, no apologizing, no over-explaining, no asking permission for a position you already hold. Those last four are hidden power leaks, and they are the subject of most of this page.
 
-**Quiet Confidence is a voice register.** It takes what you've already written, in any format, and frames it in the tone, posture, and language of a principled capital allocator. It changes how a case reads. It doesn't change what's in it, and it won't build you an argument you haven't made.
+It changes how a case reads. It doesn't change what's in it, and it won't build you an argument you haven't made.
 
-Here it is as a portable system: the philosophy underneath it, the principles that govern it, and the concrete moves that produce it. It works on both sides of the capital table, and it does the most for whoever is holding less power in the exchange. Published in full, so you can read it, reword it in your own voice, and install it wherever you keep your standards.
+**The long position. With nothing to prove.**
 
-## Why this travels past the capital table
+Here it is as a portable system: the philosophy underneath it, the principles that govern it, and the concrete moves that produce it. It works on both sides of the capital table. Published in full, so you can read it, reword it in your own voice, and install it wherever you keep your standards.
+
+## Decision velocity
 
 Everyone is asking someone to allocate something. Headcount. A quarter of roadmap. A budget line. A reorg. The benefit of the doubt on a bet that won't show returns for four quarters.
 
-A head of product defending an H2 plan and a general partner writing an LP update are doing the same work: making a case that someone with options can underwrite. The constraint is identical. Your reader has finite attention, real alternatives, and no obligation to give you either.
+A head of product defending an H2 plan and a General Partner writing an LP update are doing the same work: making a case that someone with options can underwrite. The constraint is identical. Your reader has finite attention, real alternatives, and no obligation to give you either.
 
-The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwritable your version of the future becomes. That's the return on this: decision velocity, and a future someone else can put weight on.
+Ambiguity gets priced as risk. A reader who can't tell what you're asking for, or can't tell whether you believe it, doesn't split the difference. They default to no, or to later, which is usually the same thing.
+
+Underneath that sits a second signal. Some asymmetry is always present: time, money, attention, reputation, demand, authority. The question is never whether it exists. It's what your language says about where you sit inside it, and whether you get read as a peer or as a subordinate. Almost nobody was taught this. [More on it below](#solve-for-power-asymmetry).
+
+The closer your writing gets to how a capital allocator thinks, the faster decisions get made around you, and the more underwritable your version of the future becomes. That's the return: decision velocity, and a future someone else can put weight on.
 
 ## Where this comes from
 
-Michael Margolis spent seven years forward-deployed inside Facebook and Meta, crafting strategic narratives for H1/H2 reviews and planning cycles for more than a dozen product and organizational divisions. He runs Storied.
+[Michael Margolis](https://www.linkedin.com/in/michaelmargolis/) spent seven years forward-deployed inside Facebook and Meta, crafting strategic narratives for H1/H2 reviews and planning cycles for more than a dozen product and organizational divisions. He runs [Storied](https://storiedinc.com).
 
 He's seen the same failure modes show up in every planning system that runs big tech. OKR (Google), V2MOM (Salesforce), OP1 (Amazon). Different template, identical problem: a team with a real bet, and one document standing between that bet and the funding.
 
 And now he lives it from the other side of the table. As a VC operating partner. Working with private equity investors. Advising technical operators and early-stage founders. Anyone who has to make the case before the numbers can make it for them.
 
-Different tables, different templates, the same failure modes.
+He wrote the guide nobody wrote for him, and published it so it reaches as many people as it can.
 
 ## Where you use it
 
@@ -34,7 +40,7 @@ Different tables, different templates, the same failure modes.
 - **Decision memos.** Where a recommendation has to survive people who weren't in the conversation
 - **Planning and roadmap reviews.** Where you defend a bet to the people who control the headcount
 - **Strategy docs.** Where conviction has to read as judgment rather than as selling
-- **Investment pitches.** Raising a round, or updating the people who already funded you, where the asymmetry is real and both sides know it
+- **Investment pitches.** Raising a round, or updating the people who already funded you
 - **Sales proposals.** Where the difference between confident and needy is worth the whole deal
 - **Negotiations.** Where every sentence either holds a position or concedes one
 - **Managing up, down, and across.** Where you have influence and no authority, or authority and no leverage
@@ -48,7 +54,7 @@ Each one is a reasonable instinct doing the opposite of what you intended. That'
 | The leak | What it sounds like | What it costs you |
 |---|---|---|
 | **Over-explaining** | You make the case, then make it again, then summarize it | The reader concludes you don't quite believe it either |
-| **Seeking social validation** | "Does that make sense?" "Just want to make sure this works for you" | You ask permission for a position you already hold |
+| **Social validation** | "Does that make sense?" "Just want to make sure this works for you" | You ask permission for a position you already hold |
 | **Unrequested rationale** | Nobody asked why. You told them anyway | Every unasked reason is a foothold for an objection they weren't going to raise |
 | **Hedging** | "I think we could probably look at maybe" | They can't tell what you recommend, so they default to no |
 | **Apologizing** | "Sorry for the delay." "Sorry to bother you" | You open with a debt and spend the rest of the note paying it down |
@@ -56,60 +62,83 @@ Each one is a reasonable instinct doing the opposite of what you intended. That'
 
 Six leaks. You probably run two of them by habit and can't see either one.
 
-## What AI does to your draft
+## What it looks like
 
-You write with a model now. And a model's default output runs against this register, because the thing is trained to be agreeable, thorough, and impressive, and those instincts produce the leaks above.
+Two of the moves, with a real before and after. The "out" column is what a capable person actually sends.
 
-| How it comes out | What the model actually did |
+**Trimming or moving a meeting.** Make the ask, add a plain optionality line, stop. Don't justify the trim, and never explain your calendar.
+
+| In register | Out of register |
 |---|---|
-| **Performative** | Reached for the memorable line before it earned one. It writes the closer of a keynote at the top of a status update |
-| **Insecure** | Softened every claim with a qualifier so nothing could be wrong. Nothing lands either |
+| "Could we hold it to 30 min? We can grab more time if we're onto something." | "Could we keep this to 30? My calendar is brutal this month and the back-to-backs are killing me, but happy to find more if we need it." |
+
+The second version justifies the trim and over-shares the calendar. It hands the other person a problem to manage and reads as harried rather than in command.
+
+**The intro you can't take.** Warmth, then boundary, then a clean exit. Decline on fit or timing, never on the person.
+
+| In register | Out of register |
+|---|---|
+| "Thanks for the intro, [name]. Interesting space. My focus is committed right now, so I'm not the right partner for this round, but I'd keep the door open if timing shifts. Glad you thought of me." | "Thank you so much, I'm honored you'd think of me! Unfortunately I'm completely underwater right now, so I don't think I can take this on, but please don't hesitate to circle back and I'm so sorry I can't be more help!" |
+
+The second apologizes twice, over-explains, and leaves false hope through sheer effusiveness. A founder who reads the first one feels respected, not managed.
+
+[`field-guide.md`](field-guide.md) carries the rest: the forward, the budget objection, when the other side is already sold, subject lines, and peer versus buyer texture.
+
+## What default AI does to your writing
+
+You can catch your own leaks by rereading, because you know what you meant. You can't catch a model's, because the draft never felt like yours to interrogate in the first place.
+
+Most writing is AI-assisted now, and a foundational model's default output runs against this voice register. It's trained to be agreeable, thorough, and impressive. Those three instincts have a sound.
+
+| How it comes out | What the model did |
+|---|---|
+| **Performative** | Writes the closer of a keynote on a status update |
 | **Trying too hard** | Three metaphors where the sentence needed none |
-| **Hollow** | Fluent, well-formed, about nothing. Every sentence is true and no sentence is load-bearing |
-| **Posturing** | Borrowed authority. It tells you it's being candid instead of being candid |
-| **Politicking** | Hedged for an audience who isn't on the thread. Written to survive a forward, not to get a decision |
-| **Heavy-handed** | Said the quiet part four times and underlined the point you'd already made |
-| **Unsure** | Closed with "let me know your thoughts" and handed the decision back to you |
-| **Too sure** | Stated a contested thing as settled and dared the reader to find the crack |
+| **Hollow** | Every sentence true, none of them load-bearing |
+| **Posturing** | Announces candor instead of being candid |
+| **Politicking** | Written to survive a forward, not to get a decision |
+| **Too sure** | States a contested thing as settled |
 
-A model will run several of these in a single paragraph, and the draft will read fine to you, because it reads fine to everyone until it's in someone else's inbox with your name on it.
+These are tones, not behaviors. The leaks above are things you do when the stakes rise; these are what a machine sounds like when it's trying to help. "Too sure" is the tell that the two lists are different lists, because no nervous writer has ever had that problem.
 
-This is why the tool rewrites against a named standard rather than being asked to make your draft better. Told to improve your writing, a model adds, because adding is what it does when it's trying to be useful. Told to write against a standard with named defects, it cuts.
+This is why the tool rewrites against a named standard rather than being asked to make your draft better. Told to improve your writing, a model adds. Told to write against a standard with named defects, it cuts.
 
 ## What Quiet Confidence is, and is not
 
 | Quiet Confidence is | Quiet Confidence is not |
 |---|---|
-| Authority in service of a shared outcome | A technique for winning a private advantage |
-| Quiet confidence that treats the reader as a peer | Supplication, hedging, or asking permission to take up space |
-| One clean statement, then silence | Restating, over-explaining, or justifying the ask |
-| Warmth that is genuine and brief | Flattery, validation lines, or praise engineered to soften a yes |
-| Inevitable: the conclusion feels discovered | Persuasive: the conclusion feels argued and pushed |
-| Generous in spirit, scarce with time | Available to everything, or coldly ranking what deserves a reply |
+| **Authority in service of a shared outcome** | A technique for winning a private advantage |
+| **Treats the reader as a peer** | Supplication, hedging, or asking permission to take up space |
+| **One clean statement, then silence** | Restating, over-explaining, or justifying the ask |
+| **Warmth that is genuine and brief** | Flattery, validation lines, or praise engineered to soften a yes |
+| **Inevitable: the conclusion feels discovered** | Persuasive: the conclusion feels argued and pushed |
+| **Generous in spirit, scarce with time** | Available to everything, or coldly ranking what deserves a reply |
 
 If you can cut a sentence and lose nothing but reassurance, it was a move you didn't need.
 
 ## The principles
 
-Seven. Every change you get back cites one of them by number, which is what makes it arguable rather than a matter of taste.
+Seven, ordered from the relationship outward to the mechanics. Every change you get back cites one by number, which is what makes it arguable rather than a matter of taste.
 
 **1. Serve the mutual outcome.** The aim is the result both sides would call fair, reached faster and with less friction, not the win at the other person's expense.
 
-**2. Authority through subtraction.** A short reply carries more weight than a long one. When stakes rise, cut rather than add. Over-writing reads as anxiety, and it quietly asks the reader to reassure you.
+**2. Warmth before boundary.** One genuine line before you decline or redirect. No "I'm so sorry," no "unfortunately," no apology spiral. The spiral signals guilt, and guilt signals the boundary is negotiable.
 
-**3. Preserve optionality.** Say "not right now" before "no." Decline on fit or timing, never on the person. Keep the door visibly open when it should stay open, and close it cleanly when it shouldn't.
+**3. Sound inevitable, not persuasive.** Let the conclusion feel discovered. Persuasion signals you expect resistance, which invites it.
 
-**4. Sound inevitable, not persuasive.** Let the conclusion feel discovered. Persuasion signals you expect resistance, which invites it.
+**4. Authority through subtraction.** A short reply carries more weight than a long one. When stakes rise, cut rather than add. Over-writing reads as anxiety, and it quietly asks the reader to reassure you.
 
 **5. Make the ask, then stop.** One clean request, one optional line that softens it, then silence. Unrequested rationale turns a clean ask into a surface to argue against.
 
-**6. Warmth before boundary.** One genuine line before you decline or redirect. No "I'm so sorry," no "unfortunately," no apology spiral. The spiral signals guilt, and guilt signals the boundary is negotiable.
+**6. Preserve optionality.** Say "not right now" before "no." Decline on fit or timing, never on the person. Keep the door visibly open when it should stay open, and close it cleanly when it shouldn't.
 
 **7. Never derisive. Generosity of spirit, scarcity of time.** Sound like someone who would help if they could. When you decline, leave something behind: a reframe, a name, a resource.
 
 Each principle carries a "why it matters" in [`field-guide.md`](field-guide.md), along with the moves that make it concrete and a real before-and-after for each.
 
 ## How to run it
+
+**Two names, and only two.** Say **Quiet Confidence** or **GP register** and the tool fires. Every other term on this page is vocabulary for the output, not a command.
 
 | Path | Setup | Who it's for |
 |---|---|---|
@@ -132,27 +161,31 @@ You paste the draft, you get back the one you should send. No separate diagnosis
 
 **One call for you.** Only when a change turns on something the tool doesn't have, like a date you can actually hold. Usually absent.
 
-It rewrites by subtraction, so what comes back is shorter than what went in. That constraint is the design.
+It leans hard toward subtraction, so what comes back is usually shorter than what went in. That lean is the design.
 
 Every change cites the principle behind it, so you can argue with it. A tool that grades against taste teaches you nothing. One that works from a named standard teaches you the standard, and eventually you stop needing the tool. Which is the actual goal.
 
 ## Solve for power asymmetry
 
-This is the case the register is really for, and the one it reads hardest. It fires when you're the operator, founder, advisor, or service partner and the other side controls the capital, the clock, and the calendar. Sitting in the allocator's seat, read it in reverse: these are the tells that show you someone across the table has stopped negotiating as a peer, which is rarely what you wanted either.
+Some asymmetry is always present. Time, money, attention, reputation, demand, authority. There is no exchange where both sides hold all of it equally, so the question is never whether the table is level.
 
-The structural tells are the part worth internalizing. They set the clock and you thanked them for it. They own the calendar. The meeting closed on their terms, on a call you convened. They asked what it costs and you explained how you think. You pre-disqualified the thing they'd already told you they'd fund. You asked *when* instead of *what*.
+The question is what your language says about where you sit. How you write sets the table. It tells the reader, before they reach your ask, whether to treat you as a peer or as a subordinate, and they will take the cue you give them. Quiet Confidence is a voice register that signals parity: not the claim that the asymmetry isn't there, but the posture of someone who doesn't need it resolved before they can speak plainly.
+
+Almost nobody was taught this. It gets absorbed, usually late, from watching someone who already had it.
+
+The structural tells are what it looks like when parity slips, and they're the part worth internalizing. Read them in either direction: as your own tells when you're the one asking, or as the signal that someone across the table has stopped negotiating as a peer, which is rarely what you wanted either. They set the clock and you thanked them for it. They own the calendar. The meeting closed on their terms, on a call you convened. They asked what it costs and you explained how you think. You pre-disqualified the thing they'd already told you they'd fund. You asked *when* instead of *what*.
 
 That last one is the whole game. "When should we reconnect" can be answered with a promise. "What's the one open question, if any, standing between us and go" can only be answered with an objection you can handle live, or an admission there isn't one.
 
 The correction is never to name the asymmetry out loud, which spends standing rather than reclaiming it. It's one move: a question that requires a decision, or a date you hold rather than request.
 
-## A register, not a temperament
+## A voice register, not a temperament
 
-It's the register of a general partner at a fund with nothing to prove. Reputation is the asset. Firmness and clarity are how it gets protected.
+This was built to reflect the voice register of a General Partner at an investment fund. Someone with nothing to prove. Reputation is the asset. Clarity and firmness are how it gets protected.
 
-Most of what's written about quiet confidence describes a personal quality: self-assurance built on competence and self-acceptance instead of performance and applause. That's accurate, and it stops one step short of usable. A quality you either have or don't can't be taught before Thursday, and it can't be handed to a partner who needs it on the next call.
+Most of what's written about quiet confidence describes a personal quality: self-assurance built on competence and self-acceptance instead of performance and applause. That's accurate, and it stops one step short of usable. A temperament takes years to build and can't be lent to anyone. A voice register can be read in an afternoon, practiced on the next email, and handed to a colleague who needs it now.
 
-So this treats it as a register. A register has principles you can cite, defects you can name, and a test you run before you hit send. Each characteristic of the quality has a form on the page.
+So this treats it as a voice register, and a register has principles you can cite, defects you can name, and a test you run before you hit send. Each characteristic of the quality has a form on the page.
 
 | The quality | What it looks like on the page |
 |---|---|
@@ -182,25 +215,25 @@ Ten handles, and that's deliberate. A standard people can actually run needs nam
 
 ## The governing test
 
-The register only works in service of a shared outcome. It isn't a technique for getting the better of the person across the table. Run as a play, it curdles, and a sharp counterpart feels it.
+The voice register only works in service of a shared outcome. It isn't a technique for getting the better of the person across the table. Run as a play, it curdles, and a sharp counterpart feels it.
 
 The test is whether the person receiving your note would feel respected and better served if they saw this whole system named and explained. That's why this repo is public. A register worth publishing is one that works just as well when everyone at the table has read it.
 
 ## Storied AI
 
-Quiet Confidence is one register, published in full and free to use. Two other things stand behind it, and they are not the same kind of thing.
+Quiet Confidence is one voice register, published in full and free to use. Two other things stand behind it, and they are not the same kind of thing.
 
-**Storied AI™** is the Narrative Intelligence® skills layer. Storied's methods, callable in the flow of work inside Claude and ChatGPT through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. Quiet Confidence is one of them. The language a company runs on, treated as infrastructure rather than decoration.
+**Storied AI™** is the Narrative Intelligence® skills layer: the methods that get your ideas funded, bought, or believed in, callable in the flow of work inside Claude and ChatGPT through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. Quiet Confidence is one of them.
 
-Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied-ai)
+In private beta. [**Join it at storiedinc.com/storied-ai**](https://www.storiedinc.com/storied-ai)
 
 ## Disciplined Speculation
 
-A methodology, not a skill, and the reason the distinction matters.
+A methodology for underwriting the future.
 
-Quiet Confidence sets the register a document carries. Disciplined Speculation builds what's in it: the end-to-end process for constructing a strategy, a plan, or an investment thesis and making it legible and underwritable before it can be proven. Corporate strategy. Investment committee decisions. The bet that has to be argued before it can be shown.
+Quiet Confidence sets the voice register a document carries. Disciplined Speculation builds what's inside it. Sometimes the case needs a more structured process than a register can give it: an investment thesis a VC or PE allocator has to underwrite, or a corporate strategy someone has to underwrite for their product or business division. That's the work of making a bet legible before it can be proven.
 
-It runs as an engagement with Storied rather than as something you install. [storiedinc.com](https://storiedinc.com)
+It's delivered as an engagement with Storied, not as something you install. [storiedinc.com](https://storiedinc.com)
 
 ## License
 
@@ -208,6 +241,6 @@ It runs as an engagement with Storied rather than as something you install. [sto
 
 ---
 
-Quiet Confidence v2.20 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v3.0 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

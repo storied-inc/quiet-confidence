@@ -2,7 +2,7 @@
 
 **In the world of capital allocation, the number one currency is quiet confidence.**
 
-Nothing to prove. The long position.
+The long position. With nothing to prove.
 
 How to write and speak like someone trusted with consequential decisions. Quiet Confidence is that register as a portable system: the philosophy underneath it, the principles that govern it, and the concrete moves that produce it.
 
@@ -150,7 +150,7 @@ Ten handles, and that's deliberate. A standard people can actually run needs nam
 | The name | **Quiet Confidence** |
 | The register | **the GP register** |
 | The line | "In the world of capital allocation, the number one currency is quiet confidence." |
-| The ethic | **Nothing to prove. The long position.** |
+| The ethic | **The long position. With nothing to prove.** |
 | The law | **Authority by subtraction.** Fewer moves, not fewer words |
 | The named defect | **Unrequested rationale** |
 | The stake | **Peer footing** |
@@ -178,6 +178,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.8 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.9 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

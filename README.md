@@ -4,9 +4,11 @@
 
 The long position. With nothing to prove.
 
-How to write and speak like someone trusted with consequential decisions. Quiet Confidence is that register as a portable system: the philosophy underneath it, the principles that govern it, and the concrete moves that produce it.
+How to write and speak like someone trusted with consequential decisions. The register of a person whose work and standing already speak for themselves, so nothing on the page has to.
 
-It works on both sides of the capital table, and it does the most for whoever is holding less power in the exchange. Published in full, so you can read it, reword it in your own voice, and install it wherever you keep your standards.
+**Quiet Confidence is a voice register.** It takes what you've already written, in any format, and frames it in the tone, posture, and language of a principled capital allocator. It changes how a case reads. It doesn't change what's in it, and it won't build you an argument you haven't made.
+
+Here it is as a portable system: the philosophy underneath it, the principles that govern it, and the concrete moves that produce it. It works on both sides of the capital table, and it does the most for whoever is holding less power in the exchange. Published in full, so you can read it, reword it in your own voice, and install it wherever you keep your standards.
 
 ## Why this travels past the capital table
 
@@ -25,8 +27,6 @@ He's seen the same failure modes show up in every planning system that runs big 
 And now he lives it from the other side of the table. As a VC operating partner. Working with private equity investors. Advising technical operators and early-stage founders. Anyone who has to make the case before the numbers can make it for them.
 
 Different tables, different templates, the same failure modes.
-
-**One boundary worth naming.** Quiet Confidence is a register. It fixes how a case reads, not whether the case holds. Building the strategy document and underwriting the bet inside it is separate work and a separate method: **Disciplined Speculation**, which runs end to end on corporate strategy and investment committee decisions, and makes a plan legible and underwritable before it can be proven. Quiet Confidence is the register that document has to carry once it exists. Both are part of [Storied AI](#storied-ai).
 
 ## Where you use it
 
@@ -91,7 +91,7 @@ If you can cut a sentence and lose nothing but reassurance, it was a move you di
 
 ## The principles
 
-Seven. Every note the tool gives you cites one of them by number, which is what makes it arguable rather than a matter of taste.
+Seven. Every change you get back cites one of them by number, which is what makes it arguable rather than a matter of taste.
 
 **1. Serve the mutual outcome.** The aim is the result both sides would call fair, reached faster and with less friction, not the win at the other person's expense.
 
@@ -116,7 +116,7 @@ Each principle carries a "why it matters" in [`field-guide.md`](field-guide.md),
 | [**Paste prompt**](tools/paste-prompt.md) | None. Copy, paste, paste your draft | Everyone. Start here |
 | [**Claude skill**](tools/claude-skill/SKILL.md) | One file, installed once | You live in Claude and want it to fire on its own |
 | [**ChatGPT**](tools/chatgpt/setup.md) | Build kit, plus a paid plan | You live in ChatGPT and want your own GPT |
-| [**Storied AI**](#storied-ai) | Private beta | You want the whole library, not one skill |
+| [**Storied AI**](#storied-ai) | Private beta | Not a way to run this one. The skills layer it belongs to |
 
 Run order: paste prompt for a week. If you reach for it more than twice, install the durable version for whichever tool you actually live in. Skipping straight to the install is how most of these end up installed and never used.
 
@@ -188,11 +188,19 @@ The test is whether the person receiving your note would feel respected and bett
 
 ## Storied AI
 
-Quiet Confidence is one skill, published in full. It comes from a library.
+Quiet Confidence is one register, published in full and free to use. Two other things stand behind it, and they are not the same kind of thing.
 
-**Storied AI™** puts Narrative Intelligence® skills inside Claude and ChatGPT, callable in the flow of work through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. The language a company runs on, treated as infrastructure rather than decoration.
+**Storied AI™** is the Narrative Intelligence® skills layer. Storied's methods, callable in the flow of work inside Claude and ChatGPT through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. Quiet Confidence is one of them. The language a company runs on, treated as infrastructure rather than decoration.
 
 Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied-ai)
+
+## Disciplined Speculation
+
+A methodology, not a skill, and the reason the distinction matters.
+
+Quiet Confidence sets the register a document carries. Disciplined Speculation builds what's in it: the end-to-end process for constructing a strategy, a plan, or an investment thesis and making it legible and underwritable before it can be proven. Corporate strategy. Investment committee decisions. The bet that has to be argued before it can be shown.
+
+It runs as an engagement with Storied rather than as something you install. [storiedinc.com](https://storiedinc.com)
 
 ## License
 
@@ -200,6 +208,6 @@ Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied
 
 ---
 
-Quiet Confidence v2.19 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v2.20 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

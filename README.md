@@ -2,6 +2,8 @@
 
 **Quiet Confidence is a voice register for high-stakes communication.** It runs in Claude, ChatGPT, and any model. It takes what you've already written, in any format, and frames it in the tone, posture, and language of a principled capital allocator. Whether you are one, work with one, or want to become one. 
 
+Most of us use it inside our own company: managing up, down, and across, wherever power runs uneven.
+
 **How to write and speak like someone trusted with consequential decisions.** Clear, concise, disciplined, with nothing to prove, because your work and your standing already speak for themselves. No hedging, no apologizing, no over-explaining, no asking permission for a position you already hold. Those last four are hidden power leaks, and they're the subject of most of this page. 
 
 **In the world of capital allocation, the number one currency is quiet confidence.** It changes how a case reads. It doesn't change what's in it, and it won't build you an argument you haven't made.
@@ -10,13 +12,14 @@
 
 ## Where you use it
 
-- **Email and Slack.** The ask, the update, the reply you've rewritten 4x times, the two-liner that sets the tone
-- **Managing up, down, and across.** Where you have influence and no authority, or authority and no leverage
+- **Managing up.** Strategy docs, decision memos, and planning reviews. Where you defend a bet to the people who control the headcount, and conviction has to read as judgment rather than as selling
+- **Managing across.** Peer pushback and cross-team asks. Where you have influence and no authority
+- **Managing down.** Delegation and feedback. Where you hold the authority, and the job is clarity rather than deference
 - **Investment pitches.** Raising a round, or updating the people who already funded you
 - **Sales proposals.** Where the difference between confident and needy is worth the whole deal
 - **Negotiations.** Where every sentence either holds a position or concedes one
-- **Planning and roadmap reviews.** Where you defend a bet to the people who control the headcount
-- **Strategy docs and decision memos.** Where conviction has to read as judgment rather than as selling, in front of people who weren't in the conversation
+
+Email and Slack are the medium for all of them: the ask, the update, the reply you've rewritten four times, the two-liner that sets the tone.
 
 Anywhere you want to sound more principled, more disciplined, and more self-assured, while still optimizing for mutual value creation, partnership, and the relationship.
 
@@ -51,6 +54,8 @@ The closer your writing gets to how a capital allocator thinks, the faster decis
 
 He's seen the same failure modes show up in every planning system that runs big tech. OKR (Google), V2MOM (Salesforce), OP1 (Amazon). Different template, identical problem: a team with a real bet, and one document standing between that bet and the funding.
 
+The same dynamic runs well past planning cycles. He's watched it with tech and corporate clients for years, anywhere there's asymmetry in role, hierarchy, or reputation, and it's almost never visible to the person writing.
+
 And now he lives it from the other side of the table. As a VC operating partner. Working with private equity investors. Advising technical operators and early-stage founders. Anyone who has to make the case before the numbers can make it for them.
 
 Today he runs [Storied](https://storiedinc.com), a narrative infrastructure company. He wrote this for his own work first, then made it public.
@@ -63,14 +68,14 @@ Each one is a reasonable instinct doing the opposite of what you intended. That'
 
 | The leak | What it sounds like | What it costs you |
 |---|---|---|
-| **Over-explaining** | You make the case, then make it again, then summarize it | The reader concludes you don't quite believe it either |
-| **Social validation** | "Does that make sense?" "Just want to make sure this works for you" | You ask permission for a position you already hold |
+| **An unclear ask** | It ends on "let me know your thoughts," or "Does that make sense?" | A note with no decision in it gets no decision back |
+| **Social validation** | "That's wonderful news, thank you so much!" "Love this, you're amazing" | You spend your standing making them feel good or look good, and it reads as needing them more than they need you |
 | **Unrequested rationale** | Nobody asked why. You told them anyway | Every unasked reason is a foothold for an objection they weren't going to raise |
+| **Over-explaining** | You make the case, then make it again, then summarize it | The reader concludes you don't quite believe it either |
 | **Hedging** | "I think we could probably look at maybe" | They can't tell what you recommend, so they default to no |
 | **Apologizing** | "Sorry for the delay." "Sorry to bother you" | You open with a debt and spend the rest of the note paying it down |
-| **An unclear ask** | It ends on "let me know your thoughts" | A note with no decision in it gets no decision back |
 
-Six leaks. You probably run two of them by habit and can't see either one.
+Six leaks. Most of us run a couple by habit, and can't see them in our own writing.
 
 ## What default AI does to your writing
 
@@ -173,27 +178,51 @@ So this treats it as a voice register, and a register has principles you can cit
 
 The fourth row is the one people fail. Internal validation is easy to claim and it shows up, or doesn't, in exactly two places: what you write after a compliment, and what you write after a week of nothing.
 
-## What it looks like
+## Managing up, down, and across
 
-Two of the moves, with a real before and after. The "out" column is what a capable person actually sends.
+Every one of these is a capable person's first draft. The leaks are invisible to the writer and obvious to the reader.
 
-**Trimming or moving a meeting.** Make the ask, add a plain optionality line, stop. Don't justify the trim, and never explain your calendar.
-
-| In register | Out of register |
-|---|---|
-| "Could we hold it to 30 min? We can grab more time if we're onto something." | "Could we keep this to 30? My calendar is brutal this month and the back-to-backs are killing me, but happy to find more if we need it." |
-
-The second version justifies the trim and over-shares the calendar. It hands the other person a problem to manage and reads as harried rather than in command.
-
-**When the other side has already said yes.** The message has no persuasion job left. Write the logistics and stop.
+### Up: the strategy doc going to your skip-level
 
 | In register | Out of register |
 |---|---|
-| "Good. Docs today, and let's close Friday. Looping in Priya so she has the thread." | "That's wonderful news, thank you so much! I'm genuinely excited to be working together. Just to reiterate what makes this such a strong fit: [three reasons]. Docs today and we can aim for Friday. Thanks again for your confidence in us!" |
+| "Hi Chris, H1 plan attached. The one decision I need from you is the second hire, by Friday." | "Hi Chris, sorry this took longer than planned! Attached is the H1 plan. Quick note on how I structured it: I led with the customer research because it frames everything, moved budget to the end so it doesn't distract, and flagged the second hire near the end, since that's the call I need from you. Totally open to feedback, let me know your thoughts!" |
 
-This is the one almost nobody catches. The deal is done and the second version is still selling. Every reason added after a yes is a reason the other side can now reconsider, and opening on thanks and excitement hands back the standing the yes just conferred.
+Four leaks: apologizing, unrequested rationale, hedging, and an unclear ask. Explaining how you built the doc crowds out the one line that gets it opened.
 
-[`field-guide.md`](field-guide.md) carries the rest: the intro you can't take, the forward, the budget objection, subject lines, and peer versus buyer texture.
+### Up: the decision that's stalled
+
+| In register | Out of register |
+|---|---|
+| "What's the one thing, if anything, standing between us and a yes on the vendor switch?" | "Hi! Just bumping this, sorry to be a pest. I know you have a million things going on. For a bit more context on why it matters… When do you think you might have a chance to decide?" |
+
+"When" can be answered with a promise. "What's in the way" can only be answered with the obstacle, or an admission there isn't one.
+
+### Up: taking a correction
+
+| In register | Out of register |
+|---|---|
+| "Thanks. Fixed in the attached." | "You're totally right, great catch! I'm so sorry I missed that. What happened was the numbers came from an older version of the model and… I really appreciate you taking the time. It won't happen again!" |
+
+Praise doesn't change your posture, and neither does a correction.
+
+### Across: pushing back on a peer
+
+| In register | Out of register |
+|---|---|
+| "Strong plan. I'd move the launch until after the pricing change lands. Worth 10 minutes before Thursday?" | "I could totally be wrong, and you've thought about it way more than me, but I wonder if we might consider moving the launch? Just a thought." |
+
+One genuine line of credit, one clear position, one concrete next step.
+
+### Down: delegating to your team
+
+| In register | Out of register |
+|---|---|
+| "Sam, can you own the Q4 deck? Draft to me by Wednesday. @Priya @Dev for visibility." | "Hey team, whenever someone has a sec, it'd be great if we could maybe take a look at the Q4 deck? No rush, I know everyone's slammed. The reason I'm asking is the board moved the date up and…" |
+
+Three people tagged and no owner means nobody owns it. Quiet confidence going down means clarity, not deference.
+
+[`field-guide.md`](field-guide.md) carries the external moves, each with a before and after: trimming a meeting, the intro you can't take, the reply after the other side has said yes, subject lines, and peer versus buyer texture.
 
 ## The name system
 
@@ -240,6 +269,6 @@ It's delivered as an engagement with Storied, not as something you install. [sto
 
 ---
 
-Quiet Confidence v3.3 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+Quiet Confidence v3.4 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*

@@ -1,0 +1,35 @@
+name: Validate Claude skill
+
+on:
+  pull_request:
+    paths: ["tools/claude-skill/**"]
+  push:
+    branches: [main]
+    paths: ["tools/claude-skill/**"]
+
+jobs:
+  frontmatter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pyyaml
+      - name: Check SKILL.md against Claude's upload limits
+        run: |
+          python3 - <<'PY'
+          import re, sys, yaml
+          text = open("tools/claude-skill/SKILL.md").read()
+          m = re.match(r"^---\n(.*?)\n---\n", text, re.S)
+          if not m:
+              sys.exit("SKILL.md must open with YAML frontmatter")
+          fm = yaml.safe_load(m.group(1))
+          name, desc = fm.get("name", ""), fm.get("description", "")
+          errors = []
+          if not re.fullmatch(r"[a-z0-9-]{1,64}", name):
+              errors.append(f"name must be 1-64 lowercase letters, digits, or hyphens (got {name!r})")
+          if not desc or len(desc) > 1024:
+              errors.append(f"description must be 1-1024 characters (got {len(desc)})")
+          if "<" in desc or ">" in desc:
+              errors.append("description must not contain angle brackets")
+          print(f"name: {name} | description: {len(desc)}/1024 characters")
+          sys.exit("\n".join(errors) if errors else 0)
+          PY

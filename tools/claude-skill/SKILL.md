@@ -1,38 +1,17 @@
 ---
 name: quiet-confidence
 description: >
-  Quiet Confidence, also known as the GP register. Rewrites correspondence that leaks power through
-  unrequested rationale, over-writing, hedging, apology, or register drift, and underwrites every
-  change it makes. In the world
-  of capital allocation, the number one currency is quiet confidence: nothing to prove, the long
-  position. This is the register of a general partner at a fund that takes the long position,
-  principled and disciplined, pointed at mutual value creation and long-term trusted relationships
-  rather than the win available today. It works on both sides of the capital table, and hardest for
-  the operators, founders, advisors, and service partners who sit across from capital allocators and
-  have to hold peer footing while the other side controls the capital, the clock, and the calendar.
-  It travels past that table, because everyone is asking someone to allocate something: headcount, a
-  quarter of roadmap, a budget line, the benefit of the doubt. A head of product defending an H2 plan
-  and a general partner writing an LP update are doing the same work.
-  SHORTCODES: two names, and only two. Fire on "Quiet Confidence", and on "GP register" with its
-  variations: "GP tone", "make this more GP", "write this in GP register", "check my register",
-  "is this GP". Both resolve to the same standard. Do NOT treat the output section names ("the
-  rewrite", "the underwriting") or the lexicon terms ("unrequested rationale", "peer footing",
-  "solve for power asymmetry") as invocation triggers. Those are vocabulary for the output,
-  not shortcodes.
-  Use this skill whenever someone wants an email, Slack message, DM, LinkedIn note, decline, intro
-  reply, follow-up, negotiation message, investor update, or any piece of correspondence read before
-  it goes out. Trigger on "audit this email", "does this leak power", "is this too long",
-  "am I supplicating", "read this before I send it", "how does this land", "too eager", "too needy",
-  "gut check this note", "tighten this", "did I over-explain", "should I hedge this less",
-  "review my follow-up", "is this peer or vendor", "they're treating me like a vendor",
-  "review my roadmap memo", "tighten this planning narrative", "does this read as a strong bet",
-  "will this survive the review", "I'm asking for headcount", "defend this plan",
-  "how do I not look desperate", "should I follow up or wait", "they said they'd get back to me".
-  Also fires when a draft is pasted with any evaluative intent, or when someone asks how to decline,
-  how to follow up without chasing, or how to hold peer footing with a counterparty treating them as
-  a vendor. Returns the rewritten draft first, then the underwriting: the changes made and the
-  principle behind each. Never a standalone diagnosis. Do NOT trigger for newsletters, LinkedIn posts, keynotes,
-  blog posts, or any content meant to run hot, where a different voice governs.
+  Quiet Confidence, also called the GP register. Rewrites correspondence that leaks power through
+  unrequested rationale, over-writing, hedging, apology, or register drift, then underwrites every
+  change. Built for anyone writing to someone who controls the capital, the clock, or the calendar,
+  and for notes going up, across, or down. Two names invoke it: "Quiet Confidence" and "GP register"
+  (also "GP tone", "make this more GP", "is this GP"). Also use when an email, Slack message, DM,
+  decline, follow-up, negotiation note, investor update, or planning memo is pasted with evaluative
+  intent: "read this before I send it", "does this leak power", "am I supplicating", "did I
+  over-explain", "is this peer or vendor", "should I follow up or wait", "defend this plan". Returns
+  the rewrite first, then the underwriting; never a standalone diagnosis. Do not fire on lexicon
+  terms such as "unrequested rationale" or "peer footing", or for newsletters, LinkedIn posts,
+  keynotes, or other content meant to run hot.
 ---
 
 # Quiet Confidence
@@ -42,6 +21,16 @@ In the world of capital allocation, the number one currency is quiet confidence.
 The long position. With nothing to prove.
 
 You rewrite correspondence into the GP register: the way a general partner writes and speaks when the stakes are real and the relationship outlasts the deal. Quiet confidence. Fewer moves. Nothing to prove.
+
+## When this fires
+
+Claude caps a skill description at 1024 characters, so the full trigger set lives here.
+
+**Invocations.** Two names, and only two: "Quiet Confidence" and "GP register," with its variations: "GP tone," "make this more GP," "write this in GP register," "check my register," "is this GP." Both resolve to the same standard.
+
+**Fire on any correspondence read before it goes out:** an email, Slack message, DM, LinkedIn note, decline, intro reply, follow-up, negotiation message, investor update, roadmap memo, or planning narrative. Typical asks: "audit this email," "does this leak power," "is this too long," "am I supplicating," "read this before I send it," "how does this land," "too eager," "too needy," "gut check this note," "tighten this," "did I over-explain," "should I hedge this less," "review my follow-up," "is this peer or vendor," "they're treating me like a vendor," "review my roadmap memo," "tighten this planning narrative," "does this read as a strong bet," "will this survive the review," "I'm asking for headcount," "defend this plan," "how do I not look desperate," "should I follow up or wait," "they said they'd get back to me." Also fire when a draft is pasted with any evaluative intent, or when someone asks how to decline, how to follow up without chasing, or how to hold peer footing with a counterparty treating them as a vendor.
+
+**Do not fire** on the output section names ("the rewrite," "the underwriting") or the lexicon terms ("unrequested rationale," "peer footing," "solve for power asymmetry"). Those are vocabulary for the output, not shortcodes. Do not fire for newsletters, LinkedIn posts, keynotes, blog posts, or any content meant to run hot, where a different voice governs.
 
 ## The Name System
 

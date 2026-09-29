@@ -5,13 +5,13 @@ description: >
   unrequested rationale, over-writing, hedging, apology, or register drift, then underwrites every
   change. Built for anyone writing to someone who controls the capital, the clock, or the calendar,
   and for notes going up, across, or down. Two names invoke it: "Quiet Confidence" and "GP register"
-  (also "GP tone", "make this more GP", "is this GP"). Also use when an email, Slack message, DM,
+  (also "GP tone", "make this more GP", "is this GP"). Also use when an email, Slack, DM,
   decline, follow-up, negotiation note, investor update, or planning memo is pasted with evaluative
   intent: "read this before I send it", "does this leak power", "am I supplicating", "did I
   over-explain", "is this peer or vendor", "should I follow up or wait", "defend this plan". Returns
   the rewrite first, then the underwriting; never a standalone diagnosis. Do not fire on lexicon
   terms such as "unrequested rationale" or "peer footing", or for newsletters, LinkedIn posts,
-  keynotes, or other content meant to run hot.
+  keynotes, or blog posts, which have their own pipelines.
 ---
 
 # Quiet Confidence
@@ -28,9 +28,9 @@ Claude caps a skill description at 1024 characters, so the full trigger set live
 
 **Invocations.** Two names, and only two: "Quiet Confidence" and "GP register," with its variations: "GP tone," "make this more GP," "write this in GP register," "check my register," "is this GP." Both resolve to the same standard.
 
-**Fire on any correspondence read before it goes out:** an email, Slack message, DM, LinkedIn note, decline, intro reply, follow-up, negotiation message, investor update, roadmap memo, or planning narrative. Typical asks: "audit this email," "does this leak power," "is this too long," "am I supplicating," "read this before I send it," "how does this land," "too eager," "too needy," "gut check this note," "tighten this," "did I over-explain," "should I hedge this less," "review my follow-up," "is this peer or vendor," "they're treating me like a vendor," "review my roadmap memo," "tighten this planning narrative," "does this read as a strong bet," "will this survive the review," "I'm asking for headcount," "defend this plan," "how do I not look desperate," "should I follow up or wait," "they said they'd get back to me." Also fire when a draft is pasted with any evaluative intent, or when someone asks how to decline, how to follow up without chasing, or how to hold peer footing with a counterparty treating them as a vendor.
+**Fire on any correspondence read before it goes out:** an email, Slack message, DM, LinkedIn note, decline, intro reply, follow-up, negotiation message, investor update, roadmap memo, or planning narrative. Typical asks: "audit this email," "does this leak power," "is this too long," "am I supplicating," "read this before I send it," "how does this land," "too eager," "too needy," "gut check this note," "tighten this," "did I over-explain," "should I hedge this less," "review my follow-up," "is this peer or vendor," "they're treating me like a vendor," "review my roadmap memo," "tighten this planning narrative," "does this read as a strong bet," "will this survive the review," "I'm asking for headcount," "defend this plan," "review my delegation," "is this feedback clear," "push back on a peer," "how do I not look desperate," "should I follow up or wait," "they said they'd get back to me." Also fire when a draft is pasted with any evaluative intent, or when someone asks how to decline, how to follow up without chasing, or how to hold peer footing with a counterparty treating them as a vendor.
 
-**Do not fire** on the output section names ("the rewrite," "the underwriting") or the lexicon terms ("unrequested rationale," "peer footing," "solve for power asymmetry"). Those are vocabulary for the output, not shortcodes. Do not fire for newsletters, LinkedIn posts, keynotes, blog posts, or any content meant to run hot, where a different voice governs.
+**Do not fire** on the output section names ("the rewrite," "the underwriting") or the lexicon terms ("unrequested rationale," "peer footing," "solve for power asymmetry"). Those are vocabulary for the output, not shortcodes. Do not fire for newsletters, LinkedIn posts, keynotes, or blog posts. They run the same register through their own pipelines, not through this rewrite.
 
 ## The Name System
 
@@ -89,11 +89,12 @@ Two rules that bind you personally, not just the drafts you read:
 
 ## Intake
 
-Before rewriting, establish three things. Ask only for what the paste doesn't already tell you, and never ask more than two questions.
+Before rewriting, establish four things. Ask only for what the paste doesn't already tell you, and never ask more than two questions.
 
 - **Who's receiving this.** Decides peer texture or buyer texture. No other judgment is possible without it.
 - **What they want to happen next.** A rewrite needs a target.
 - **Where it sits in the exchange.** First contact, mid-deal, post-close, or a decline. Infer this and name your inference rather than asking.
+- **Which direction it travels.** Up, across, or down. Going up, one clean ask. Going across, keep one genuine line of credit before the position. Going down, name one owner and a date, and keep the warmth, because the writer holds the power there and curtness is the leak. If a note going down to several people names no owner, ask who owns it. Infer the direction and name your inference.
 
 ## What Quiet Confidence is, and is not
 
@@ -209,7 +210,7 @@ Cut these on sight, and name the cut in the underwriting.
 
 It governs correspondence, declines, redirects, introductions, scheduling, negotiation, investor and peer exchange, and any moment where optionality or power dynamics are live.
 
-Withhold or soften it for content meant to run hot, for genuine celebration where warmth should expand rather than compress, and for moments of real human stakes where brevity reads as cold. The register is calm, not withholding. When someone needs more of you, say so and give it.
+Published writing runs it too: newsletters, LinkedIn, keynotes. The register holds, and personality, provocation, and self-deprecation are spent on the landing, never the introduction. Soften it only for genuine celebration, where warmth should expand rather than compress, and for moments of real human stakes, where brevity reads as cold. The register is calm, not withholding. When someone needs more of you, say so and give it.
 
 ## Before returning anything
 

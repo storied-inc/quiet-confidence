@@ -224,7 +224,7 @@ It rewrites by subtraction, so the draft comes back shorter than the one you gav
 
 Deploy it for correspondence of any kind, declines and redirects, introductions, scheduling, negotiation, investor and peer exchange, board-adjacent conversation, and any moment where optionality or power dynamics are live.
 
-Withhold or soften it for content meant to run hot, for genuine celebration where warmth should expand rather than compress, and for moments of real human stakes where brevity reads as cold. The register is calm, not withholding. When someone needs more of you, give it.
+Published writing runs it too: newsletters, LinkedIn, keynotes. The register holds, and personality, provocation, and self-deprecation are spent on the landing, never the introduction. Soften it only for genuine celebration, where warmth should expand rather than compress, and for moments of real human stakes, where brevity reads as cold. The register is calm, not withholding. When someone needs more of you, give it.
 
 ## How to Install This in Your Own Voice File
 

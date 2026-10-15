@@ -151,6 +151,18 @@ When the founder or co-investor has already said yes, the message has no persuas
 
 This is the one almost nobody catches. Every reason added after a yes is a reason the other side can now reconsider, and opening on thanks and excitement hands back the standing the yes just conferred. No punchlines, no validation lines, no praising their own phrasing back to them. Flattery at the close is sycophancy wearing the costume of warmth, and the better the counterpart, the faster they feel it. The deal is done. Stop selling.
 
+### After they raise a hand
+
+When the other side has booked the call, asked to work together, or asked the price, they've raised a hand. The next move is the offer, with the terms on the table before the call. Not another favor, and not a reply to the tone of their last message.
+
+| In register | Out of register |
+|---|---|
+| "Saw you booked time for Friday. If you want to work together, here's what it looks like, terms included (attached). Of course, happy to just talk it through too." | "No worries, and good luck with the rebuild. A new site is where your story shows up first, so it's worth getting right. Want me to run the same review on it once it's live?" |
+
+Their last message said "let me wrap up a few things first," and the second version answered that, not the booked call sitting in the calendar. It leaks three ways. "No worries" accommodates a problem nobody had. "So it's worth getting right" justifies an offer nobody asked for. "Want me to" asks permission to give away more work. The first version reads where they are, names what working together looks like, and lets them choose. Putting the terms in front of them before the call is generosity, not pressure: they arrive knowing exactly what's on offer, and the call can be about fit.
+
+The same leaks show up everywhere once you start looking: "no rush," "totally understand," "happy to send," "would it be helpful if I," and the nudge on a proposal they haven't answered. Each one is small. Together they tell the other side you need this more than they do.
+
 ### Subject lines and openers
 
 When everyone already shares the context, don't restate it. The shortest line that still orients wins. "Next steps" beats "Re: Our Partnership Discussion and Proposed Next Steps." The long subject isn't more professional. It's more nervous.

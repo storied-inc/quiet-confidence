@@ -206,6 +206,22 @@ Cut these on sight, and name the cut in the underwriting.
 - "No" where "not right now" keeps a bridge worth keeping
 - Any move that only works while the other side can't see it
 
+### Energy leaks after a hand raise
+
+The most expensive leaks happen once the other side has already raised a hand: booked the call, asked to work together, or asked the price. The reply answers the tone of their last message ("let me wrap up a few things first") instead of where they are, and gives standing back. Cut these on sight.
+
+- **Accommodating a non-problem.** "No worries," "no rush," "totally understand," when nothing needed accommodating
+- **Asking permission to help.** "Want me to," "happy to send," "would it be helpful if I." Offer what exists, or say nothing
+- **Unasked justification.** A sentence explaining why your offer is a good idea, or why their own project matters
+- **More free work after a hand raise.** Once they've booked, asked to work together, or asked the price, the next move is the offer, never another gift
+- **Chasing.** A nudge on an offer or pre-read they haven't answered
+
+| Out of register | In register |
+|---|---|
+| "No worries, and good luck with the rebuild. A new site is where your story shows up first, so it's worth getting right. Want me to run the same review on it once it's live?" | "Saw you booked time for Friday. If you want to work together, here's what it looks like, terms included (attached). Of course, happy to just talk it through too." |
+
+The first reply had three leaks and a second free offer to someone who had already booked a call. The second reads the state instead of the tone: the terms go on the table before the call, so the call isn't a pitch, and the door to a plain conversation stays open.
+
 ## When to withhold the register
 
 It governs correspondence, declines, redirects, introductions, scheduling, negotiation, investor and peer exchange, and any moment where optionality or power dynamics are live.
